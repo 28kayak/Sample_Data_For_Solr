@@ -3,7 +3,7 @@
 import pandas as pd
 
 
-df_header = pd.read_csv('sample_products_data_csv/sample_products3.csv', header=0)
+df_header = pd.read_csv('sample_products_data_csv/sample_products1.csv', header=0)
 
 product_codes = df_header["code"]
 product_name = df_header["name"]
@@ -12,7 +12,7 @@ product_price = df_header["price"]
 product_maker = df_header["maker"]
 product_release_day = df_header["release_day"]
 
-xml_file = open("sample_products_data_solr_xml/sample_products3.xml", "w")
+xml_file = open("sample_products_data_solr_xml/sample_products1.xml", "w")
 
 
 def convert_row(row):
