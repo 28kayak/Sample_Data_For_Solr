@@ -1,2100 +1,2401 @@
-<add><doc><field name="product_code">BEY001</field>
-    <field name="product_name">0</field>
-    <field name="product_unit_amount" >700ml</field>
-    <field name="product_price">400</field>
+<add><doc>
+    <field name="id">0</field>
+    <field name="product_code">BEY001</field>
+    <field name="product_name">からだにやさしいコーヒー</field>
+    <field name="product_unit_amount">700ml</field>
     <field name="product_maker">株式会社 イマイズミ産業</field>
     <field name="field_release_day">平成18年10月</field>
-</doc>
-<doc><field name="product_code">PRS002</field>
-    <field name="product_name">1</field>
-    <field name="product_unit_amount" >1050ml</field>
-    <field name="product_price">410</field>
+    <field name="product_price">400</field>
+</doc> <doc>
+    <field name="id">1</field>
+    <field name="product_code">PRS002</field>
+    <field name="product_name">極上コーヒー牛乳</field>
+    <field name="product_unit_amount">1050ml</field>
     <field name="product_maker">大原食品 株式会社</field>
     <field name="field_release_day">平成22年08月</field>
-</doc>
-<doc><field name="product_code">BNX003</field>
-    <field name="product_name">2</field>
-    <field name="product_unit_amount" >1200ml</field>
-    <field name="product_price">1,790</field>
+    <field name="product_price">410</field>
+</doc> <doc>
+    <field name="id">2</field>
+    <field name="product_code">BNX003</field>
+    <field name="product_name">極旨緑茶</field>
+    <field name="product_unit_amount">1200ml</field>
     <field name="product_maker">株式会社 尾崎化学工業</field>
     <field name="field_release_day">平成20年01月</field>
-</doc>
-<doc><field name="product_code">ANW004</field>
-    <field name="product_name">3</field>
-    <field name="product_unit_amount" >1000ml</field>
-    <field name="product_price">1,800</field>
+    <field name="product_price">1,790</field>
+</doc> <doc>
+    <field name="id">3</field>
+    <field name="product_code">ANW004</field>
+    <field name="product_name">熟成豆乳</field>
+    <field name="product_unit_amount">1000ml</field>
     <field name="product_maker">株式会社 杉田食品工業</field>
     <field name="field_release_day">平成13年01月</field>
-</doc>
-<doc><field name="product_code">DFH005</field>
-    <field name="product_name">4</field>
-    <field name="product_unit_amount" >400g</field>
-    <field name="product_price">1,090</field>
+    <field name="product_price">1,800</field>
+</doc> <doc>
+    <field name="id">4</field>
+    <field name="product_code">DFH005</field>
+    <field name="product_name">プレミアムチョコレート</field>
+    <field name="product_unit_amount">400g</field>
     <field name="product_maker">尾崎乳業 株式会社</field>
     <field name="field_release_day">平成13年02月</field>
-</doc>
-<doc><field name="product_code">ADI006</field>
-    <field name="product_name">5</field>
-    <field name="product_unit_amount" >450ml</field>
-    <field name="product_price">1,370</field>
+    <field name="product_price">1,090</field>
+</doc> <doc>
+    <field name="id">5</field>
+    <field name="product_code">ADI006</field>
+    <field name="product_name">今までなかった紅茶</field>
+    <field name="product_unit_amount">450ml</field>
     <field name="product_maker">ダブルダンディ水産 株式会社</field>
     <field name="field_release_day">平成15年12月</field>
-</doc>
-<doc><field name="product_code">FGP007</field>
-    <field name="product_name">6</field>
-    <field name="product_unit_amount" >800ml</field>
-    <field name="product_price">1,260</field>
+    <field name="product_price">1,370</field>
+</doc> <doc>
+    <field name="id">6</field>
+    <field name="product_code">FGP007</field>
+    <field name="product_name">健やかウーロン茶</field>
+    <field name="product_unit_amount">800ml</field>
     <field name="product_maker">株式会社 杉田水産</field>
     <field name="field_release_day">平成13年04月</field>
-</doc>
-<doc><field name="product_code">CHU008</field>
-    <field name="product_name">7</field>
-    <field name="product_unit_amount" >1050ml</field>
-    <field name="product_price">590</field>
+    <field name="product_price">1,260</field>
+</doc> <doc>
+    <field name="id">7</field>
+    <field name="product_code">CHU008</field>
+    <field name="product_name">天然抹茶</field>
+    <field name="product_unit_amount">1050ml</field>
     <field name="product_maker"> 福永・ふくなが化学 株式会社</field>
     <field name="field_release_day">平成17年02月</field>
-</doc>
-<doc><field name="product_code">DQU009</field>
-    <field name="product_name">8</field>
-    <field name="product_unit_amount" >1100g</field>
-    <field name="product_price">510</field>
+    <field name="product_price">590</field>
+</doc> <doc>
+    <field name="id">8</field>
+    <field name="product_code">DQU009</field>
+    <field name="product_name">からだよろこぶバター</field>
+    <field name="product_unit_amount">1100g</field>
     <field name="product_maker"> 株式会社 いまいずみ水産</field>
     <field name="field_release_day">平成18年11月</field>
-</doc>
-<doc><field name="product_code">EFO010</field>
-    <field name="product_name">9</field>
-    <field name="product_unit_amount" >350g</field>
-    <field name="product_price">1,320</field>
+    <field name="product_price">510</field>
+</doc> <doc>
+    <field name="id">9</field>
+    <field name="product_code">EFO010</field>
+    <field name="product_name">高級粉チーズ</field>
+    <field name="product_unit_amount">350g</field>
     <field name="product_maker"> ココグランドフード 株式会社</field>
     <field name="field_release_day">平成16年01月</field>
-</doc>
-<doc><field name="product_code">QRX011</field>
-    <field name="product_name">10</field>
-    <field name="product_unit_amount" >350g</field>
-    <field name="product_price">1,610</field>
+    <field name="product_price">1,320</field>
+</doc> <doc>
+    <field name="id">10</field>
+    <field name="product_code">QRX011</field>
+    <field name="product_name">健康チーズ</field>
+    <field name="product_unit_amount">350g</field>
     <field name="product_maker"> 株式会社 デルフィニウム・ヒペリカム化学</field>
     <field name="field_release_day">平成15年02月</field>
-</doc>
-<doc><field name="product_code">MYZ012</field>
-    <field name="product_name">11</field>
-    <field name="product_unit_amount" >1100g</field>
-    <field name="product_price">1,040</field>
+    <field name="product_price">1,610</field>
+</doc> <doc>
+    <field name="id">11</field>
+    <field name="product_code">MYZ012</field>
+    <field name="product_name">ヘルシースライスチーズ</field>
+    <field name="product_unit_amount">1100g</field>
     <field name="product_maker"> ニューハイブリットオレンジバイオ 株式会社</field>
     <field name="field_release_day">平成20年04月</field>
-</doc>
-<doc><field name="product_code">MTW013</field>
-    <field name="product_name">12</field>
-    <field name="product_unit_amount" >1200g</field>
-    <field name="product_price">1,270</field>
+    <field name="product_price">1,040</field>
+</doc> <doc>
+    <field name="id">12</field>
+    <field name="product_code">MTW013</field>
+    <field name="product_name">フレッシュジャム</field>
+    <field name="product_unit_amount">1200g</field>
     <field name="product_maker"> 株式会社 今泉化学</field>
     <field name="field_release_day">平成17年09月</field>
-</doc>
-<doc><field name="product_code">BGQ014</field>
-    <field name="product_name">13</field>
-    <field name="product_unit_amount" >500ml</field>
-    <field name="product_price">1,370</field>
+    <field name="product_price">1,270</field>
+</doc> <doc>
+    <field name="id">13</field>
+    <field name="product_code">BGQ014</field>
+    <field name="product_name">オリジナル牛乳</field>
+    <field name="product_unit_amount">500ml</field>
     <field name="product_maker"> スターバーストバイオ 株式会社</field>
     <field name="field_release_day">平成18年09月</field>
-</doc>
-<doc><field name="product_code">AET015</field>
-    <field name="product_name">14</field>
-    <field name="product_unit_amount" >400g</field>
-    <field name="product_price">1,450</field>
+    <field name="product_price">1,370</field>
+</doc> <doc>
+    <field name="id">14</field>
+    <field name="product_code">AET015</field>
+    <field name="product_name">おいしい塩</field>
+    <field name="product_unit_amount">400g</field>
     <field name="product_maker"> おおき食品 株式会社</field>
     <field name="field_release_day">平成17年08月</field>
-</doc>
-<doc><field name="product_code">AJU016</field>
-    <field name="product_name">15</field>
-    <field name="product_unit_amount" >450g</field>
-    <field name="product_price">370</field>
+    <field name="product_price">1,450</field>
+</doc> <doc>
+    <field name="id">15</field>
+    <field name="product_code">AJU016</field>
+    <field name="product_name">デラックスマーガリン</field>
+    <field name="product_unit_amount">450g</field>
     <field name="product_maker">株式会社 やじま・大原乳業</field>
     <field name="field_release_day">平成14年03月</field>
-</doc>
-<doc><field name="product_code">JSW017</field>
-    <field name="product_name">16</field>
-    <field name="product_unit_amount" >300ml</field>
-    <field name="product_price">580</field>
+    <field name="product_price">370</field>
+</doc> <doc>
+    <field name="id">16</field>
+    <field name="product_code">JSW017</field>
+    <field name="product_name">みんなのお酢</field>
+    <field name="product_unit_amount">300ml</field>
     <field name="product_maker">株式会社 ライン化学</field>
     <field name="field_release_day">平成17年03月</field>
-</doc>
-<doc><field name="product_code">ENX018</field>
-    <field name="product_name">17</field>
-    <field name="product_unit_amount" >550ml</field>
-    <field name="product_price">570</field>
+    <field name="product_price">580</field>
+</doc> <doc>
+    <field name="id">17</field>
+    <field name="product_code">ENX018</field>
+    <field name="product_name">大自然がくれたミネラルウォーター</field>
+    <field name="product_unit_amount">550ml</field>
     <field name="product_maker">株式会社 アイ・ビーフード</field>
     <field name="field_release_day">平成22年12月</field>
-</doc>
-<doc><field name="product_code">IOP019</field>
-    <field name="product_name">18</field>
-    <field name="product_unit_amount" >600g</field>
-    <field name="product_price">650</field>
+    <field name="product_price">570</field>
+</doc> <doc>
+    <field name="id">18</field>
+    <field name="product_code">IOP019</field>
+    <field name="product_name">大自然のガーリック</field>
+    <field name="product_unit_amount">600g</field>
     <field name="product_maker">トライアングル水産 株式会社</field>
     <field name="field_release_day">平成16年02月</field>
-</doc>
-<doc><field name="product_code">AMW020</field>
-    <field name="product_name">19</field>
-    <field name="product_unit_amount" >800ml</field>
-    <field name="product_price">1,090</field>
+    <field name="product_price">650</field>
+</doc> <doc>
+    <field name="id">19</field>
+    <field name="product_code">AMW020</field>
+    <field name="product_name">徳用お茶</field>
+    <field name="product_unit_amount">800ml</field>
     <field name="product_maker"> 株式会社 なかじま食品工業</field>
     <field name="field_release_day">平成20年05月</field>
-</doc>
-<doc><field name="product_code">BJP021</field>
-    <field name="product_name">20</field>
-    <field name="product_unit_amount" >850ml</field>
-    <field name="product_price">1,280</field>
+    <field name="product_price">1,090</field>
+</doc> <doc>
+    <field name="id">20</field>
+    <field name="product_code">BJP021</field>
+    <field name="product_name">純正オリーブオイル</field>
+    <field name="product_unit_amount">850ml</field>
     <field name="product_maker">株式会社 ノバゼンブラ食品</field>
     <field name="field_release_day">平成12年03月</field>
-</doc>
-<doc><field name="product_code">DGX022</field>
-    <field name="product_name">21</field>
-    <field name="product_unit_amount" >650g</field>
-    <field name="product_price">1,780</field>
+    <field name="product_price">1,280</field>
+</doc> <doc>
+    <field name="id">21</field>
+    <field name="product_code">DGX022</field>
+    <field name="product_name">エクストラ塩</field>
+    <field name="product_unit_amount">650g</field>
     <field name="product_maker">株式会社 ココグランド製糖</field>
     <field name="field_release_day">平成16年10月</field>
-</doc>
-<doc><field name="product_code">KTZ023</field>
-    <field name="product_name">22</field>
-    <field name="product_unit_amount" >1100ml</field>
-    <field name="product_price">1,440</field>
+    <field name="product_price">1,780</field>
+</doc> <doc>
+    <field name="id">22</field>
+    <field name="product_code">KTZ023</field>
+    <field name="product_name">奇跡の牛乳</field>
+    <field name="product_unit_amount">1100ml</field>
     <field name="product_maker"> 中島ケミカル 株式会社</field>
     <field name="field_release_day">平成13年10月</field>
-</doc>
-<doc><field name="product_code">QSW024</field>
-    <field name="product_name">23</field>
-    <field name="product_unit_amount" >950g</field>
-    <field name="product_price">1,400</field>
+    <field name="product_price">1,440</field>
+</doc> <doc>
+    <field name="id">23</field>
+    <field name="product_code">QSW024</field>
+    <field name="product_name">ミルキーバター</field>
+    <field name="product_unit_amount">950g</field>
     <field name="product_maker">松島バイオ 株式会社</field>
     <field name="field_release_day">平成16年07月</field>
-</doc>
-<doc><field name="product_code">JNS025</field>
-    <field name="product_name">24</field>
-    <field name="product_unit_amount" >300g</field>
-    <field name="product_price">1,320</field>
+    <field name="product_price">1,400</field>
+</doc> <doc>
+    <field name="id">24</field>
+    <field name="product_code">JNS025</field>
+    <field name="product_name">料理用チーズ</field>
+    <field name="product_unit_amount">300g</field>
     <field name="product_maker"> 株式会社 竹下製糖</field>
     <field name="field_release_day">平成12年12月</field>
-</doc>
-<doc><field name="product_code">HOW026</field>
-    <field name="product_name">25</field>
-    <field name="product_unit_amount" >650ml</field>
-    <field name="product_price">1,120</field>
+    <field name="product_price">1,320</field>
+</doc> <doc>
+    <field name="id">25</field>
+    <field name="product_code">HOW026</field>
+    <field name="product_name">デリシャスお酢</field>
+    <field name="product_unit_amount">650ml</field>
     <field name="product_maker">株式会社 田辺・尾崎食品工業</field>
     <field name="field_release_day">平成17年05月</field>
-</doc>
-<doc><field name="product_code">INO027</field>
-    <field name="product_name">26</field>
-    <field name="product_unit_amount" >400ml</field>
-    <field name="product_price">1,170</field>
+    <field name="product_price">1,120</field>
+</doc> <doc>
+    <field name="id">26</field>
+    <field name="product_code">INO027</field>
+    <field name="product_name">最高級抹茶</field>
+    <field name="product_unit_amount">400ml</field>
     <field name="product_maker">ダブルダンディフード 株式会社</field>
     <field name="field_release_day">平成15年05月</field>
-</doc>
-<doc><field name="product_code">AKX028</field>
-    <field name="product_name">27</field>
-    <field name="product_unit_amount" >1050ml</field>
-    <field name="product_price">1,560</field>
+    <field name="product_price">1,170</field>
+</doc> <doc>
+    <field name="id">27</field>
+    <field name="product_code">AKX028</field>
+    <field name="product_name">みんなのオリーブオイル</field>
+    <field name="product_unit_amount">1050ml</field>
     <field name="product_maker">株式会社 トロピカーナ製糖</field>
     <field name="field_release_day">平成15年10月</field>
-</doc>
-<doc><field name="product_code">AGI029</field>
-    <field name="product_name">28</field>
-    <field name="product_unit_amount" >1200g</field>
-    <field name="product_price">1,640</field>
+    <field name="product_price">1,560</field>
+</doc> <doc>
+    <field name="id">28</field>
+    <field name="product_code">AGI029</field>
+    <field name="product_name">エクストラスライスチーズ</field>
+    <field name="product_unit_amount">1200g</field>
     <field name="product_maker">株式会社 大木ケミカル</field>
     <field name="field_release_day">平成16年11月</field>
-</doc>
-<doc><field name="product_code">CHK030</field>
-    <field name="product_name">29</field>
-    <field name="product_unit_amount" >1000ml</field>
-    <field name="product_price">1,490</field>
+    <field name="product_price">1,640</field>
+</doc> <doc>
+    <field name="id">29</field>
+    <field name="product_code">CHK030</field>
+    <field name="product_name">プレミアム牛乳</field>
+    <field name="product_unit_amount">1000ml</field>
     <field name="product_maker">株式会社 中島乳業</field>
     <field name="field_release_day">平成21年12月</field>
-</doc>
-<doc><field name="product_code">BFM031</field>
-    <field name="product_name">30</field>
-    <field name="product_unit_amount" >900ml</field>
-    <field name="product_price">610</field>
+    <field name="product_price">1,490</field>
+</doc> <doc>
+    <field name="id">30</field>
+    <field name="product_code">BFM031</field>
+    <field name="product_name">ミルキー豆乳</field>
+    <field name="product_unit_amount">900ml</field>
     <field name="product_maker">フォレストフレア・スターバーストフード 株式会社</field>
     <field name="field_release_day">平成20年06月</field>
-</doc>
-<doc><field name="product_code">OUY032</field>
-    <field name="product_name">31</field>
-    <field name="product_unit_amount" >1000g</field>
-    <field name="product_price">1,390</field>
+    <field name="product_price">610</field>
+</doc> <doc>
+    <field name="id">31</field>
+    <field name="product_code">OUY032</field>
+    <field name="product_name">オリジナルジャム</field>
+    <field name="product_unit_amount">1000g</field>
     <field name="product_maker">黒田サイエンス 株式会社</field>
     <field name="field_release_day">平成20年05月</field>
-</doc>
-<doc><field name="product_code">DVW033</field>
-    <field name="product_name">32</field>
-    <field name="product_unit_amount" >850g</field>
-    <field name="product_price">650</field>
+    <field name="product_price">1,390</field>
+</doc> <doc>
+    <field name="id">32</field>
+    <field name="product_code">DVW033</field>
+    <field name="product_name">大自然の粉チーズ</field>
+    <field name="product_unit_amount">850g</field>
     <field name="product_maker"> 株式会社 古沢ボトリング</field>
     <field name="field_release_day">平成14年01月</field>
-</doc>
-<doc><field name="product_code">ASZ034</field>
-    <field name="product_name">33</field>
-    <field name="product_unit_amount" >450g</field>
-    <field name="product_price">1,320</field>
+    <field name="product_price">650</field>
+</doc> <doc>
+    <field name="id">33</field>
+    <field name="product_code">ASZ034</field>
+    <field name="product_name">健康スライスチーズ</field>
+    <field name="product_unit_amount">450g</field>
     <field name="product_maker"> 株式会社 福永食品工業</field>
     <field name="field_release_day">平成12年03月</field>
-</doc>
-<doc><field name="product_code">AGW035</field>
-    <field name="product_name">34</field>
-    <field name="product_unit_amount" >600g</field>
-    <field name="product_price">700</field>
+    <field name="product_price">1,320</field>
+</doc> <doc>
+    <field name="id">34</field>
+    <field name="product_code">AGW035</field>
+    <field name="product_name">ミルキーマーガリン</field>
+    <field name="product_unit_amount">600g</field>
     <field name="product_maker"> 株式会社 トロピカーナ製糖</field>
     <field name="field_release_day">平成21年06月</field>
-</doc>
-<doc><field name="product_code">HJN036</field>
-    <field name="product_name">35</field>
-    <field name="product_unit_amount" >1100ml</field>
-    <field name="product_price">570</field>
+    <field name="product_price">700</field>
+</doc> <doc>
+    <field name="id">35</field>
+    <field name="product_code">HJN036</field>
+    <field name="product_name">健康豆乳</field>
+    <field name="product_unit_amount">1100ml</field>
     <field name="product_maker"> 株式会社 トライアングル製糖</field>
     <field name="field_release_day">平成12年01月</field>
-</doc>
-<doc><field name="product_code">LRU037</field>
-    <field name="product_name">36</field>
-    <field name="product_unit_amount" >750ml</field>
-    <field name="product_price">1,160</field>
+    <field name="product_price">570</field>
+</doc> <doc>
+    <field name="id">36</field>
+    <field name="product_code">LRU037</field>
+    <field name="product_name">極上お茶</field>
+    <field name="product_unit_amount">750ml</field>
     <field name="product_maker">株式会社 トライアングル産業</field>
     <field name="field_release_day">平成14年09月</field>
-</doc>
-<doc><field name="product_code">CMY038</field>
-    <field name="product_name">37</field>
-    <field name="product_unit_amount" >400g</field>
-    <field name="product_price">1,260</field>
+    <field name="product_price">1,160</field>
+</doc> <doc>
+    <field name="id">37</field>
+    <field name="product_code">CMY038</field>
+    <field name="product_name">料理用チョコレート</field>
+    <field name="product_unit_amount">400g</field>
     <field name="product_maker">株式会社 いぐち乳業</field>
     <field name="field_release_day">平成21年12月</field>
-</doc>
-<doc><field name="product_code">AGP039</field>
-    <field name="product_name">38</field>
-    <field name="product_unit_amount" >1000g</field>
-    <field name="product_price">650</field>
+    <field name="product_price">1,260</field>
+</doc> <doc>
+    <field name="id">38</field>
+    <field name="product_code">AGP039</field>
+    <field name="product_name">熟成粉チーズ</field>
+    <field name="product_unit_amount">1000g</field>
     <field name="product_maker"> ナカジマフード 株式会社</field>
     <field name="field_release_day">平成19年02月</field>
-</doc>
-<doc><field name="product_code">EHS040</field>
-    <field name="product_name">39</field>
-    <field name="product_unit_amount" >1150ml</field>
-    <field name="product_price">1,430</field>
+    <field name="product_price">650</field>
+</doc> <doc>
+    <field name="id">39</field>
+    <field name="product_code">EHS040</field>
+    <field name="product_name">ミルキー豆乳</field>
+    <field name="product_unit_amount">1150ml</field>
     <field name="product_maker">みつい食品工業 株式会社</field>
     <field name="field_release_day">平成16年08月</field>
-</doc>
-<doc><field name="product_code">DMO041</field>
-    <field name="product_name">40</field>
-    <field name="product_unit_amount" >650ml</field>
-    <field name="product_price">560</field>
+    <field name="product_price">1,430</field>
+</doc> <doc>
+    <field name="id">40</field>
+    <field name="product_code">DMO041</field>
+    <field name="product_name">料理用抹茶</field>
+    <field name="product_unit_amount">650ml</field>
     <field name="product_maker"> 株式会社 ドリームランド食品工業</field>
     <field name="field_release_day">平成12年03月</field>
-</doc>
-<doc><field name="product_code">MWX042</field>
-    <field name="product_name">41</field>
-    <field name="product_unit_amount" >400g</field>
-    <field name="product_price">410</field>
+    <field name="product_price">560</field>
+</doc> <doc>
+    <field name="id">41</field>
+    <field name="product_code">MWX042</field>
+    <field name="product_name">今までなかったマーガリン</field>
+    <field name="product_unit_amount">400g</field>
     <field name="product_maker"> ライン製糖 株式会社</field>
     <field name="field_release_day">平成19年07月</field>
-</doc>
-<doc><field name="product_code">BEZ043</field>
-    <field name="product_name">42</field>
-    <field name="product_unit_amount" >500g</field>
-    <field name="product_price">480</field>
+    <field name="product_price">410</field>
+</doc> <doc>
+    <field name="id">42</field>
+    <field name="product_code">BEZ043</field>
+    <field name="product_name">フレッシュ塩</field>
+    <field name="product_unit_amount">500g</field>
     <field name="product_maker"> 株式会社 たけした乳業</field>
     <field name="field_release_day">平成15年08月</field>
-</doc>
-<doc><field name="product_code">CPS044</field>
-    <field name="product_name">43</field>
-    <field name="product_unit_amount" >400ml</field>
-    <field name="product_price">500</field>
+    <field name="product_price">480</field>
+</doc> <doc>
+    <field name="id">43</field>
+    <field name="product_code">CPS044</field>
+    <field name="product_name">デリシャスコーヒー</field>
+    <field name="product_unit_amount">400ml</field>
     <field name="product_maker">サンリッチサイエンス 株式会社</field>
     <field name="field_release_day">平成12年06月</field>
-</doc>
-<doc><field name="product_code">BUY045</field>
-    <field name="product_name">44</field>
-    <field name="product_unit_amount" >300ml</field>
-    <field name="product_price">310</field>
+    <field name="product_price">500</field>
+</doc> <doc>
+    <field name="id">44</field>
+    <field name="product_code">BUY045</field>
+    <field name="product_name">デラックスオリーブオイル</field>
+    <field name="product_unit_amount">300ml</field>
     <field name="product_maker">株式会社 アイ・ビー水産</field>
     <field name="field_release_day">平成17年06月</field>
-</doc>
-<doc><field name="product_code">AGX046</field>
-    <field name="product_name">45</field>
-    <field name="product_unit_amount" >500ml</field>
-    <field name="product_price">1,460</field>
+    <field name="product_price">310</field>
+</doc> <doc>
+    <field name="id">45</field>
+    <field name="product_code">AGX046</field>
+    <field name="product_name">天然お茶</field>
+    <field name="product_unit_amount">500ml</field>
     <field name="product_maker">株式会社 横井食品工業</field>
     <field name="field_release_day">平成15年07月</field>
-</doc>
-<doc><field name="product_code">FIQ047</field>
-    <field name="product_name">46</field>
-    <field name="product_unit_amount" >550ml</field>
-    <field name="product_price">1,210</field>
+    <field name="product_price">1,460</field>
+</doc> <doc>
+    <field name="id">46</field>
+    <field name="product_code">FIQ047</field>
+    <field name="product_name">料理用紅茶</field>
+    <field name="product_unit_amount">550ml</field>
     <field name="product_maker"> ダブルダンディ乳業 株式会社</field>
     <field name="field_release_day">平成21年05月</field>
-</doc>
-<doc><field name="product_code">MRX048</field>
-    <field name="product_name">47</field>
-    <field name="product_unit_amount" >800ml</field>
-    <field name="product_price">1,390</field>
+    <field name="product_price">1,210</field>
+</doc> <doc>
+    <field name="id">47</field>
+    <field name="product_code">MRX048</field>
+    <field name="product_name">ミルキーコーヒー牛乳</field>
+    <field name="product_unit_amount">800ml</field>
     <field name="product_maker">パバロッティ食品工業 株式会社</field>
     <field name="field_release_day">平成16年09月</field>
-</doc>
-<doc><field name="product_code">BOY049</field>
-    <field name="product_name">48</field>
-    <field name="product_unit_amount" >1150g</field>
-    <field name="product_price">1,460</field>
+    <field name="product_price">1,390</field>
+</doc> <doc>
+    <field name="id">48</field>
+    <field name="product_code">BOY049</field>
+    <field name="product_name">大自然のマーガリン</field>
+    <field name="product_unit_amount">1150g</field>
     <field name="product_maker"> 株式会社 横井食品工業</field>
     <field name="field_release_day">平成22年07月</field>
-</doc>
-<doc><field name="product_code">GHP050</field>
-    <field name="product_name">49</field>
-    <field name="product_unit_amount" >700ml</field>
-    <field name="product_price">1,760</field>
+    <field name="product_price">1,460</field>
+</doc> <doc>
+    <field name="id">49</field>
+    <field name="product_code">GHP050</field>
+    <field name="product_name">デラックス豆乳</field>
+    <field name="product_unit_amount">700ml</field>
     <field name="product_maker">さざなみ・キューブ食品工業 株式会社</field>
     <field name="field_release_day">平成14年07月</field>
-</doc>
-<doc><field name="product_code">FGH051</field>
-    <field name="product_name">50</field>
-    <field name="product_unit_amount" >1000g</field>
-    <field name="product_price">710</field>
+    <field name="product_price">1,760</field>
+</doc> <doc>
+    <field name="id">50</field>
+    <field name="product_code">FGH051</field>
+    <field name="product_name">健康塩</field>
+    <field name="product_unit_amount">1000g</field>
     <field name="product_maker">株式会社 今泉乳業</field>
     <field name="field_release_day">平成19年09月</field>
-</doc>
-<doc><field name="product_code">FTW052</field>
-    <field name="product_name">51</field>
-    <field name="product_unit_amount" >900g</field>
-    <field name="product_price">1,410</field>
+    <field name="product_price">710</field>
+</doc> <doc>
+    <field name="id">51</field>
+    <field name="product_code">FTW052</field>
+    <field name="product_name">極上チョコレート</field>
+    <field name="product_unit_amount">900g</field>
     <field name="product_maker">タケシタ食品工業 株式会社</field>
     <field name="field_release_day">平成21年09月</field>
-</doc>
-<doc><field name="product_code">GOP053</field>
-    <field name="product_name">52</field>
-    <field name="product_unit_amount" >400g</field>
-    <field name="product_price">1,390</field>
+    <field name="product_price">1,410</field>
+</doc> <doc>
+    <field name="id">52</field>
+    <field name="product_code">GOP053</field>
+    <field name="product_name">ミルキー塩</field>
+    <field name="product_unit_amount">400g</field>
     <field name="product_maker">株式会社 木村水産</field>
     <field name="field_release_day">平成22年10月</field>
-</doc>
-<doc><field name="product_code">DMQ054</field>
-    <field name="product_name">53</field>
-    <field name="product_unit_amount" >1000ml</field>
-    <field name="product_price">330</field>
+    <field name="product_price">1,390</field>
+</doc> <doc>
+    <field name="id">53</field>
+    <field name="product_code">DMQ054</field>
+    <field name="product_name">からだよろこぶ紅茶</field>
+    <field name="product_unit_amount">1000ml</field>
     <field name="product_maker"> 星野産業 株式会社</field>
     <field name="field_release_day">平成22年01月</field>
-</doc>
-<doc><field name="product_code">KLY055</field>
-    <field name="product_name">54</field>
-    <field name="product_unit_amount" >1100g</field>
-    <field name="product_price">1,760</field>
+    <field name="product_price">330</field>
+</doc> <doc>
+    <field name="id">54</field>
+    <field name="product_code">KLY055</field>
+    <field name="product_name">デリシャスガーリック</field>
+    <field name="product_unit_amount">1100g</field>
     <field name="product_maker">パバロッティ食品工業 株式会社</field>
     <field name="field_release_day">平成18年02月</field>
-</doc>
-<doc><field name="product_code">CKR056</field>
-    <field name="product_name">55</field>
-    <field name="product_unit_amount" >1200ml</field>
-    <field name="product_price">1,680</field>
+    <field name="product_price">1,760</field>
+</doc> <doc>
+    <field name="id">55</field>
+    <field name="product_code">CKR056</field>
+    <field name="product_name">極上緑茶</field>
+    <field name="product_unit_amount">1200ml</field>
     <field name="product_maker"> 尾崎食品工業 株式会社</field>
     <field name="field_release_day">平成16年06月</field>
-</doc>
-<doc><field name="product_code">JQY057</field>
-    <field name="product_name">56</field>
-    <field name="product_unit_amount" >1200g</field>
-    <field name="product_price">520</field>
+    <field name="product_price">1,680</field>
+</doc> <doc>
+    <field name="id">56</field>
+    <field name="product_code">JQY057</field>
+    <field name="product_name">からだよろこぶ粉チーズ</field>
+    <field name="product_unit_amount">1200g</field>
     <field name="product_maker">フクナガ水産 株式会社</field>
     <field name="field_release_day">平成14年02月</field>
-</doc>
-<doc><field name="product_code">AKS058</field>
-    <field name="product_name">57</field>
-    <field name="product_unit_amount" >850ml</field>
-    <field name="product_price">1,500</field>
+    <field name="product_price">520</field>
+</doc> <doc>
+    <field name="id">57</field>
+    <field name="product_code">AKS058</field>
+    <field name="product_name">料理用紅茶</field>
+    <field name="product_unit_amount">850ml</field>
     <field name="product_maker">株式会社 フクナガ化学工業</field>
     <field name="field_release_day">平成16年05月</field>
-</doc>
-<doc><field name="product_code">KMW059</field>
-    <field name="product_name">58</field>
-    <field name="product_unit_amount" >350ml</field>
-    <field name="product_price">1,360</field>
+    <field name="product_price">1,500</field>
+</doc> <doc>
+    <field name="id">58</field>
+    <field name="product_code">KMW059</field>
+    <field name="product_name">天然抹茶</field>
+    <field name="product_unit_amount">350ml</field>
     <field name="product_maker"> 今泉製糖 株式会社</field>
     <field name="field_release_day">平成22年05月</field>
-</doc>
-<doc><field name="product_code">EOY060</field>
-    <field name="product_name">59</field>
-    <field name="product_unit_amount" >900g</field>
-    <field name="product_price">910</field>
+    <field name="product_price">1,360</field>
+</doc> <doc>
+    <field name="id">59</field>
+    <field name="product_code">EOY060</field>
+    <field name="product_name">徳用チーズ</field>
+    <field name="product_unit_amount">900g</field>
     <field name="product_maker">株式会社 中島化学工業</field>
     <field name="field_release_day">平成17年09月</field>
-</doc>
-<doc><field name="product_code">ADP061</field>
-    <field name="product_name">60</field>
-    <field name="product_unit_amount" >900ml</field>
-    <field name="product_price">870</field>
+    <field name="product_price">910</field>
+</doc> <doc>
+    <field name="id">60</field>
+    <field name="product_code">ADP061</field>
+    <field name="product_name">高級コーヒー牛乳</field>
+    <field name="product_unit_amount">900ml</field>
     <field name="product_maker">株式会社 ドリームランド・トロピカーナフード</field>
     <field name="field_release_day">平成17年11月</field>
-</doc>
-<doc><field name="product_code">CFX062</field>
-    <field name="product_name">61</field>
-    <field name="product_unit_amount" >1050g</field>
-    <field name="product_price">910</field>
+    <field name="product_price">870</field>
+</doc> <doc>
+    <field name="id">61</field>
+    <field name="product_code">CFX062</field>
+    <field name="product_name">高級ガーリック</field>
+    <field name="product_unit_amount">1050g</field>
     <field name="product_maker">今泉水産 株式会社</field>
     <field name="field_release_day">平成17年11月</field>
-</doc>
-<doc><field name="product_code">BKP063</field>
-    <field name="product_name">62</field>
-    <field name="product_unit_amount" >450ml</field>
-    <field name="product_price">1,100</field>
+    <field name="product_price">910</field>
+</doc> <doc>
+    <field name="id">62</field>
+    <field name="product_code">BKP063</field>
+    <field name="product_name">プレミアム豆乳</field>
+    <field name="product_unit_amount">450ml</field>
     <field name="product_maker">クロダ化学 株式会社</field>
     <field name="field_release_day">平成15年10月</field>
-</doc>
-<doc><field name="product_code">BGI064</field>
-    <field name="product_name">63</field>
-    <field name="product_unit_amount" >550g</field>
-    <field name="product_price">1,160</field>
+    <field name="product_price">1,100</field>
+</doc> <doc>
+    <field name="id">63</field>
+    <field name="product_code">BGI064</field>
+    <field name="product_name">徳用バター</field>
+    <field name="product_unit_amount">550g</field>
     <field name="product_maker">株式会社 キューブ化学</field>
     <field name="field_release_day">平成15年12月</field>
-</doc>
-<doc><field name="product_code">INU065</field>
-    <field name="product_name">64</field>
-    <field name="product_unit_amount" >700ml</field>
-    <field name="product_price">1,080</field>
+    <field name="product_price">1,160</field>
+</doc> <doc>
+    <field name="id">64</field>
+    <field name="product_code">INU065</field>
+    <field name="product_name">今までなかったオリーブオイル</field>
+    <field name="product_unit_amount">700ml</field>
     <field name="product_maker">竹下ケミカル 株式会社</field>
     <field name="field_release_day">平成18年08月</field>
-</doc>
-<doc><field name="product_code">ILR066</field>
-    <field name="product_name">65</field>
-    <field name="product_unit_amount" >300g</field>
-    <field name="product_price">590</field>
+    <field name="product_price">1,080</field>
+</doc> <doc>
+    <field name="id">65</field>
+    <field name="product_code">ILR066</field>
+    <field name="product_name">オリジナルガーリック</field>
+    <field name="product_unit_amount">300g</field>
     <field name="product_maker">株式会社 トライアングル食品工業</field>
     <field name="field_release_day">平成20年09月</field>
-</doc>
-<doc><field name="product_code">EQW067</field>
-    <field name="product_name">66</field>
-    <field name="product_unit_amount" >650g</field>
-    <field name="product_price">1,140</field>
+    <field name="product_price">590</field>
+</doc> <doc>
+    <field name="id">66</field>
+    <field name="product_code">EQW067</field>
+    <field name="product_name">からだにやさしい粉チーズ</field>
+    <field name="product_unit_amount">650g</field>
     <field name="product_maker">やじま・おおはら水産 株式会社</field>
     <field name="field_release_day">平成22年08月</field>
-</doc>
-<doc><field name="product_code">BPZ068</field>
-    <field name="product_name">67</field>
-    <field name="product_unit_amount" >1000g</field>
-    <field name="product_price">1,760</field>
+    <field name="product_price">1,140</field>
+</doc> <doc>
+    <field name="id">67</field>
+    <field name="product_code">BPZ068</field>
+    <field name="product_name">健康マーガリン</field>
+    <field name="product_unit_amount">1000g</field>
     <field name="product_maker">株式会社 ふるさわフード</field>
     <field name="field_release_day">平成15年12月</field>
-</doc>
-<doc><field name="product_code">IKP069</field>
-    <field name="product_name">68</field>
-    <field name="product_unit_amount" >350g</field>
-    <field name="product_price">510</field>
+    <field name="product_price">1,760</field>
+</doc> <doc>
+    <field name="id">68</field>
+    <field name="product_code">IKP069</field>
+    <field name="product_name">料理用マーガリン</field>
+    <field name="product_unit_amount">350g</field>
     <field name="product_maker">奥山食品工業 株式会社</field>
     <field name="field_release_day">平成21年12月</field>
-</doc>
-<doc><field name="product_code">ILZ070</field>
-    <field name="product_name">69</field>
-    <field name="product_unit_amount" >1050g</field>
-    <field name="product_price">800</field>
+    <field name="product_price">510</field>
+</doc> <doc>
+    <field name="id">69</field>
+    <field name="product_code">ILZ070</field>
+    <field name="product_name">純正バター</field>
+    <field name="product_unit_amount">1050g</field>
     <field name="product_maker"> 三井食品工業 株式会社</field>
     <field name="field_release_day">平成18年05月</field>
-</doc>
-<doc><field name="product_code">PST071</field>
-    <field name="product_name">70</field>
-    <field name="product_unit_amount" >700ml</field>
-    <field name="product_price">680</field>
+    <field name="product_price">800</field>
+</doc> <doc>
+    <field name="id">70</field>
+    <field name="product_code">PST071</field>
+    <field name="product_name">最高級紅茶</field>
+    <field name="product_unit_amount">700ml</field>
     <field name="product_maker"> 株式会社 池田食品工業</field>
     <field name="field_release_day">平成13年12月</field>
-</doc>
-<doc><field name="product_code">BJR072</field>
-    <field name="product_name">71</field>
-    <field name="product_unit_amount" >800ml</field>
-    <field name="product_price">1,390</field>
+    <field name="product_price">680</field>
+</doc> <doc>
+    <field name="id">71</field>
+    <field name="product_code">BJR072</field>
+    <field name="product_name">徳用ミネラルウォーター</field>
+    <field name="product_unit_amount">800ml</field>
     <field name="product_maker">スターバースト産業 株式会社</field>
     <field name="field_release_day">平成17年11月</field>
-</doc>
-<doc><field name="product_code">CFH073</field>
-    <field name="product_name">72</field>
-    <field name="product_unit_amount" >600g</field>
-    <field name="product_price">1,000</field>
+    <field name="product_price">1,390</field>
+</doc> <doc>
+    <field name="id">72</field>
+    <field name="product_code">CFH073</field>
+    <field name="product_name">天然ガーリック</field>
+    <field name="product_unit_amount">600g</field>
     <field name="product_maker"> 株式会社 たけした食品工業</field>
     <field name="field_release_day">平成17年03月</field>
-</doc>
-<doc><field name="product_code">RVZ074</field>
-    <field name="product_name">73</field>
-    <field name="product_unit_amount" >1100ml</field>
-    <field name="product_price">1,670</field>
+    <field name="product_price">1,000</field>
+</doc> <doc>
+    <field name="id">73</field>
+    <field name="product_code">RVZ074</field>
+    <field name="product_name">からだにやさしいコーヒー牛乳</field>
+    <field name="product_unit_amount">1100ml</field>
     <field name="product_maker">株式会社 松島食品工業</field>
     <field name="field_release_day">平成19年11月</field>
-</doc>
-<doc><field name="product_code">ACI075</field>
-    <field name="product_name">74</field>
-    <field name="product_unit_amount" >950g</field>
-    <field name="product_price">1,060</field>
+    <field name="product_price">1,670</field>
+</doc> <doc>
+    <field name="id">74</field>
+    <field name="product_code">ACI075</field>
+    <field name="product_name">熟成スライスチーズ</field>
+    <field name="product_unit_amount">950g</field>
     <field name="product_maker">トルマンディフード 株式会社</field>
     <field name="field_release_day">平成17年09月</field>
-</doc>
-<doc><field name="product_code">JPR076</field>
-    <field name="product_name">75</field>
-    <field name="product_unit_amount" >1200ml</field>
-    <field name="product_price">740</field>
+    <field name="product_price">1,060</field>
+</doc> <doc>
+    <field name="id">75</field>
+    <field name="product_code">JPR076</field>
+    <field name="product_name">大自然がくれたミネラルウォーター</field>
+    <field name="product_unit_amount">1200ml</field>
     <field name="product_maker">横井乳業 株式会社</field>
     <field name="field_release_day">平成16年09月</field>
-</doc>
-<doc><field name="product_code">FKZ077</field>
-    <field name="product_name">76</field>
-    <field name="product_unit_amount" >750ml</field>
-    <field name="product_price">1,130</field>
+    <field name="product_price">740</field>
+</doc> <doc>
+    <field name="id">76</field>
+    <field name="product_code">FKZ077</field>
+    <field name="product_name">極旨豆乳</field>
+    <field name="product_unit_amount">750ml</field>
     <field name="product_maker">ココアバンティケミカル 株式会社</field>
     <field name="field_release_day">平成16年02月</field>
-</doc>
-<doc><field name="product_code">EFW078</field>
-    <field name="product_name">77</field>
-    <field name="product_unit_amount" >500g</field>
-    <field name="product_price">1,530</field>
+    <field name="product_price">1,130</field>
+</doc> <doc>
+    <field name="id">77</field>
+    <field name="product_code">EFW078</field>
+    <field name="product_name">エクストラ塩</field>
+    <field name="product_unit_amount">500g</field>
     <field name="product_maker">ふるさわ食品化工 株式会社</field>
     <field name="field_release_day">平成14年09月</field>
-</doc>
-<doc><field name="product_code">BMV079</field>
-    <field name="product_name">78</field>
-    <field name="product_unit_amount" >1150g</field>
-    <field name="product_price">830</field>
+    <field name="product_price">1,530</field>
+</doc> <doc>
+    <field name="id">78</field>
+    <field name="product_code">BMV079</field>
+    <field name="product_name">大自然がくれたチョコレート</field>
+    <field name="product_unit_amount">1150g</field>
     <field name="product_maker">林田食品 株式会社</field>
     <field name="field_release_day">平成17年02月</field>
-</doc>
-<doc><field name="product_code">CQU080</field>
-    <field name="product_name">79</field>
-    <field name="product_unit_amount" >800g</field>
-    <field name="product_price">1,780</field>
+    <field name="product_price">830</field>
+</doc> <doc>
+    <field name="id">79</field>
+    <field name="product_code">CQU080</field>
+    <field name="product_name">熟成バター</field>
+    <field name="product_unit_amount">800g</field>
     <field name="product_maker">池田食品工業 株式会社</field>
     <field name="field_release_day">平成20年01月</field>
-</doc>
-<doc><field name="product_code">AMS081</field>
-    <field name="product_name">80</field>
-    <field name="product_unit_amount" >500ml</field>
-    <field name="product_price">1,570</field>
+    <field name="product_price">1,780</field>
+</doc> <doc>
+    <field name="id">80</field>
+    <field name="product_code">AMS081</field>
+    <field name="product_name">極旨コーヒー</field>
+    <field name="product_unit_amount">500ml</field>
     <field name="product_maker">たけしたフード 株式会社</field>
     <field name="field_release_day">平成17年02月</field>
-</doc>
-<doc><field name="product_code">KPX082</field>
-    <field name="product_name">81</field>
-    <field name="product_unit_amount" >500g</field>
-    <field name="product_price">800</field>
+    <field name="product_price">1,570</field>
+</doc> <doc>
+    <field name="id">81</field>
+    <field name="product_code">KPX082</field>
+    <field name="product_name">最高級チーズ</field>
+    <field name="product_unit_amount">500g</field>
     <field name="product_maker">株式会社 スフィアボトリング</field>
     <field name="field_release_day">平成22年01月</field>
-</doc>
-<doc><field name="product_code">BLO083</field>
-    <field name="product_name">82</field>
-    <field name="product_unit_amount" >450ml</field>
-    <field name="product_price">1,470</field>
+    <field name="product_price">800</field>
+</doc> <doc>
+    <field name="id">82</field>
+    <field name="product_code">BLO083</field>
+    <field name="product_name">高級ウーロン茶</field>
+    <field name="product_unit_amount">450ml</field>
     <field name="product_maker">株式会社 辻本乳業</field>
     <field name="field_release_day">平成17年05月</field>
-</doc>
-<doc><field name="product_code">BMX084</field>
-    <field name="product_name">83</field>
-    <field name="product_unit_amount" >850g</field>
-    <field name="product_price">840</field>
+    <field name="product_price">1,470</field>
+</doc> <doc>
+    <field name="id">83</field>
+    <field name="product_code">BMX084</field>
+    <field name="product_name">極旨ガーリック</field>
+    <field name="product_unit_amount">850g</field>
     <field name="product_maker"> 今泉サイエンス 株式会社</field>
     <field name="field_release_day">平成12年03月</field>
-</doc>
-<doc><field name="product_code">ADY085</field>
-    <field name="product_name">84</field>
-    <field name="product_unit_amount" >950ml</field>
-    <field name="product_price">1,270</field>
+    <field name="product_price">840</field>
+</doc> <doc>
+    <field name="id">84</field>
+    <field name="product_code">ADY085</field>
+    <field name="product_name">大自然がくれた抹茶</field>
+    <field name="product_unit_amount">950ml</field>
     <field name="product_maker">トロピカーナ冷凍食品 株式会社</field>
     <field name="field_release_day">平成14年05月</field>
-</doc>
-<doc><field name="product_code">FTW086</field>
-    <field name="product_name">85</field>
-    <field name="product_unit_amount" >400g</field>
-    <field name="product_price">1,030</field>
+    <field name="product_price">1,270</field>
+</doc> <doc>
+    <field name="id">85</field>
+    <field name="product_code">FTW086</field>
+    <field name="product_name">ミルキースライスチーズ</field>
+    <field name="product_unit_amount">400g</field>
     <field name="product_maker">キューブケミカル 株式会社</field>
     <field name="field_release_day">平成16年04月</field>
-</doc>
-<doc><field name="product_code">KMO087</field>
-    <field name="product_name">86</field>
-    <field name="product_unit_amount" >750ml</field>
-    <field name="product_price">490</field>
+    <field name="product_price">1,030</field>
+</doc> <doc>
+    <field name="id">86</field>
+    <field name="product_code">KMO087</field>
+    <field name="product_name">からだよろこぶコーヒー</field>
+    <field name="product_unit_amount">750ml</field>
     <field name="product_maker"> 株式会社 エヌ・アイ・デイケミカル</field>
     <field name="field_release_day">平成22年12月</field>
-</doc>
-<doc><field name="product_code">DSY088</field>
-    <field name="product_name">87</field>
-    <field name="product_unit_amount" >1100g</field>
-    <field name="product_price">1,050</field>
+    <field name="product_price">490</field>
+</doc> <doc>
+    <field name="id">87</field>
+    <field name="product_code">DSY088</field>
+    <field name="product_name">ヘルシー粉チーズ</field>
+    <field name="product_unit_amount">1100g</field>
     <field name="product_maker"> 株式会社 松島バイオ</field>
     <field name="field_release_day">平成19年06月</field>
-</doc>
-<doc><field name="product_code">BDR089</field>
-    <field name="product_name">88</field>
-    <field name="product_unit_amount" >750g</field>
-    <field name="product_price">1,680</field>
+    <field name="product_price">1,050</field>
+</doc> <doc>
+    <field name="id">88</field>
+    <field name="product_code">BDR089</field>
+    <field name="product_name">からだよろこぶ粉チーズ</field>
+    <field name="product_unit_amount">750g</field>
     <field name="product_maker">ココグランド乳業 株式会社</field>
     <field name="field_release_day">平成16年04月</field>
-</doc>
-<doc><field name="product_code">IQT090</field>
-    <field name="product_name">89</field>
-    <field name="product_unit_amount" >550g</field>
-    <field name="product_price">1,410</field>
+    <field name="product_price">1,680</field>
+</doc> <doc>
+    <field name="id">89</field>
+    <field name="product_code">IQT090</field>
+    <field name="product_name">デラックスチーズ</field>
+    <field name="product_unit_amount">550g</field>
     <field name="product_maker"> 株式会社 黒田サイエンス</field>
     <field name="field_release_day">平成16年07月</field>
-</doc>
-<doc><field name="product_code">FRW091</field>
-    <field name="product_name">90</field>
-    <field name="product_unit_amount" >1150ml</field>
-    <field name="product_price">990</field>
+    <field name="product_price">1,410</field>
+</doc> <doc>
+    <field name="id">90</field>
+    <field name="product_code">FRW091</field>
+    <field name="product_name">天然緑茶</field>
+    <field name="product_unit_amount">1150ml</field>
     <field name="product_maker">ドリームランド食品工業 株式会社</field>
     <field name="field_release_day">平成15年01月</field>
-</doc>
-<doc><field name="product_code">JXY092</field>
-    <field name="product_name">91</field>
-    <field name="product_unit_amount" >600ml</field>
-    <field name="product_price">830</field>
+    <field name="product_price">990</field>
+</doc> <doc>
+    <field name="id">91</field>
+    <field name="product_code">JXY092</field>
+    <field name="product_name">今までなかったウーロン茶</field>
+    <field name="product_unit_amount">600ml</field>
     <field name="product_maker">杉田製糖 株式会社</field>
     <field name="field_release_day">平成16年03月</field>
-</doc>
-<doc><field name="product_code">GJY093</field>
-    <field name="product_name">92</field>
-    <field name="product_unit_amount" >700g</field>
-    <field name="product_price">700</field>
+    <field name="product_price">830</field>
+</doc> <doc>
+    <field name="id">92</field>
+    <field name="product_code">GJY093</field>
+    <field name="product_name">徳用チーズ</field>
+    <field name="product_unit_amount">700g</field>
     <field name="product_maker"> フクナガ水産 株式会社</field>
     <field name="field_release_day">平成15年11月</field>
-</doc>
-<doc><field name="product_code">MRW094</field>
-    <field name="product_name">93</field>
-    <field name="product_unit_amount" >650ml</field>
-    <field name="product_price">690</field>
+    <field name="product_price">700</field>
+</doc> <doc>
+    <field name="id">93</field>
+    <field name="product_code">MRW094</field>
+    <field name="product_name">みんなのコーヒー</field>
+    <field name="product_unit_amount">650ml</field>
     <field name="product_maker"> 株式会社 たけした水産</field>
     <field name="field_release_day">平成19年07月</field>
-</doc>
-<doc><field name="product_code">AHP095</field>
-    <field name="product_name">94</field>
-    <field name="product_unit_amount" >300g</field>
-    <field name="product_price">1,470</field>
+    <field name="product_price">690</field>
+</doc> <doc>
+    <field name="id">94</field>
+    <field name="product_code">AHP095</field>
+    <field name="product_name">健康ジャム</field>
+    <field name="product_unit_amount">300g</field>
     <field name="product_maker">株式会社 福永化学工業</field>
     <field name="field_release_day">平成17年09月</field>
-</doc>
-<doc><field name="product_code">BFO096</field>
-    <field name="product_name">95</field>
-    <field name="product_unit_amount" >900ml</field>
     <field name="product_price">1,470</field>
+</doc> <doc>
+    <field name="id">95</field>
+    <field name="product_code">BFO096</field>
+    <field name="product_name">からだにやさしいミネラルウォーター</field>
+    <field name="product_unit_amount">900ml</field>
     <field name="product_maker">株式会社 今泉水産</field>
     <field name="field_release_day">平成12年05月</field>
-</doc>
-<doc><field name="product_code">IMV097</field>
-    <field name="product_name">96</field>
-    <field name="product_unit_amount" >700ml</field>
-    <field name="product_price">1,300</field>
+    <field name="product_price">1,470</field>
+</doc> <doc>
+    <field name="id">96</field>
+    <field name="product_code">IMV097</field>
+    <field name="product_name">徳用お茶</field>
+    <field name="product_unit_amount">700ml</field>
     <field name="product_maker">ドミンゴサイエンス 株式会社</field>
     <field name="field_release_day">平成15年11月</field>
-</doc>
-<doc><field name="product_code">AOZ098</field>
-    <field name="product_name">97</field>
-    <field name="product_unit_amount" >500ml</field>
-    <field name="product_price">530</field>
+    <field name="product_price">1,300</field>
+</doc> <doc>
+    <field name="id">97</field>
+    <field name="product_code">AOZ098</field>
+    <field name="product_name">ヘルシーコーヒー牛乳</field>
+    <field name="product_unit_amount">500ml</field>
     <field name="product_maker">株式会社 クロダフード</field>
     <field name="field_release_day">平成15年03月</field>
-</doc>
-<doc><field name="product_code">OXY099</field>
-    <field name="product_name">98</field>
-    <field name="product_unit_amount" >1100g</field>
-    <field name="product_price">1,650</field>
+    <field name="product_price">530</field>
+</doc> <doc>
+    <field name="id">98</field>
+    <field name="product_code">OXY099</field>
+    <field name="product_name">エクストラマーガリン</field>
+    <field name="product_unit_amount">1100g</field>
     <field name="product_maker">株式会社 ニューハイブリットオレンジ・ノバゼンブラ化学</field>
     <field name="field_release_day">平成20年02月</field>
-</doc>
-<doc><field name="product_code">HWY100</field>
-    <field name="product_name">99</field>
-    <field name="product_unit_amount" >350ml</field>
-    <field name="product_price">730</field>
+    <field name="product_price">1,650</field>
+</doc> <doc>
+    <field name="id">99</field>
+    <field name="product_code">HWY100</field>
+    <field name="product_name">健やか豆乳</field>
+    <field name="product_unit_amount">350ml</field>
     <field name="product_maker"> 株式会社 ハヤシダフード</field>
     <field name="field_release_day">平成20年08月</field>
-</doc>
-<doc><field name="product_code">BCU101</field>
-    <field name="product_name">100</field>
-    <field name="product_unit_amount" >700g</field>
-    <field name="product_price">680</field>
+    <field name="product_price">730</field>
+</doc> <doc>
+    <field name="id">100</field>
+    <field name="product_code">BCU101</field>
+    <field name="product_name">純正マーガリン</field>
+    <field name="product_unit_amount">700g</field>
     <field name="product_maker">株式会社 あらき食品工業</field>
     <field name="field_release_day">平成13年07月</field>
-</doc>
-<doc><field name="product_code">BCU102</field>
-    <field name="product_name">101</field>
-    <field name="product_unit_amount" >700ml</field>
-    <field name="product_price">1,110</field>
+    <field name="product_price">680</field>
+</doc> <doc>
+    <field name="id">101</field>
+    <field name="product_code">BCU102</field>
+    <field name="product_name">熟成ウーロン茶</field>
+    <field name="product_unit_amount">700ml</field>
     <field name="product_maker"> ふじもとケミカル 株式会社</field>
     <field name="field_release_day">平成17年08月</field>
-</doc>
-<doc><field name="product_code">QUX103</field>
-    <field name="product_name">102</field>
-    <field name="product_unit_amount" >1150ml</field>
-    <field name="product_price">1,020</field>
+    <field name="product_price">1,110</field>
+</doc> <doc>
+    <field name="id">102</field>
+    <field name="product_code">QUX103</field>
+    <field name="product_name">最高級ミネラルウォーター</field>
+    <field name="product_unit_amount">1150ml</field>
     <field name="product_maker"> 株式会社 あらき乳業</field>
     <field name="field_release_day">平成16年09月</field>
-</doc>
-<doc><field name="product_code">QTY104</field>
-    <field name="product_name">103</field>
-    <field name="product_unit_amount" >800g</field>
-    <field name="product_price">830</field>
+    <field name="product_price">1,020</field>
+</doc> <doc>
+    <field name="id">103</field>
+    <field name="product_code">QTY104</field>
+    <field name="product_name">奇跡のチョコレート</field>
+    <field name="product_unit_amount">800g</field>
     <field name="product_maker">株式会社 村田乳業</field>
     <field name="field_release_day">平成20年01月</field>
-</doc>
-<doc><field name="product_code">ATZ105</field>
-    <field name="product_name">104</field>
-    <field name="product_unit_amount" >650g</field>
-    <field name="product_price">1,720</field>
+    <field name="product_price">830</field>
+</doc> <doc>
+    <field name="id">104</field>
+    <field name="product_code">ATZ105</field>
+    <field name="product_name">健康バター</field>
+    <field name="product_unit_amount">650g</field>
     <field name="product_maker">コウノ産業 株式会社</field>
     <field name="field_release_day">平成21年03月</field>
-</doc>
-<doc><field name="product_code">BGN106</field>
-    <field name="product_name">105</field>
-    <field name="product_unit_amount" >1200ml</field>
-    <field name="product_price">460</field>
+    <field name="product_price">1,720</field>
+</doc> <doc>
+    <field name="id">105</field>
+    <field name="product_code">BGN106</field>
+    <field name="product_name">極旨牛乳</field>
+    <field name="product_unit_amount">1200ml</field>
     <field name="product_maker">カプレットクーリア・サナ・シベリア食品工業 株式会社</field>
     <field name="field_release_day">平成12年02月</field>
-</doc>
-<doc><field name="product_code">AGR107</field>
-    <field name="product_name">106</field>
-    <field name="product_unit_amount" >450ml</field>
-    <field name="product_price">1,040</field>
+    <field name="product_price">460</field>
+</doc> <doc>
+    <field name="id">106</field>
+    <field name="product_code">AGR107</field>
+    <field name="product_name">徳用緑茶</field>
+    <field name="product_unit_amount">450ml</field>
     <field name="product_maker">セーラ・セシール化学 株式会社</field>
     <field name="field_release_day">平成21年04月</field>
-</doc>
-<doc><field name="product_code">BJV108</field>
-    <field name="product_name">107</field>
-    <field name="product_unit_amount" >900ml</field>
-    <field name="product_price">370</field>
+    <field name="product_price">1,040</field>
+</doc> <doc>
+    <field name="id">107</field>
+    <field name="product_code">BJV108</field>
+    <field name="product_name">からだにやさしいお茶</field>
+    <field name="product_unit_amount">900ml</field>
     <field name="product_maker">株式会社 荒木ケミカル</field>
     <field name="field_release_day">平成16年06月</field>
-</doc>
-<doc><field name="product_code">JKM109</field>
-    <field name="product_name">108</field>
-    <field name="product_unit_amount" >900g</field>
-    <field name="product_price">1,000</field>
+    <field name="product_price">370</field>
+</doc> <doc>
+    <field name="id">108</field>
+    <field name="product_code">JKM109</field>
+    <field name="product_name">おいしいチーズ</field>
+    <field name="product_unit_amount">900g</field>
     <field name="product_maker">株式会社 アサガラ乳業</field>
     <field name="field_release_day">平成12年07月</field>
-</doc>
-<doc><field name="product_code">GTZ110</field>
-    <field name="product_name">109</field>
-    <field name="product_unit_amount" >1200g</field>
-    <field name="product_price">1,120</field>
+    <field name="product_price">1,000</field>
+</doc> <doc>
+    <field name="id">109</field>
+    <field name="product_code">GTZ110</field>
+    <field name="product_name">大自然のジャム</field>
+    <field name="product_unit_amount">1200g</field>
     <field name="product_maker"> 株式会社 荒井化学</field>
     <field name="field_release_day">平成22年07月</field>
-</doc>
-<doc><field name="product_code">CPR111</field>
-    <field name="product_name">110</field>
-    <field name="product_unit_amount" >1200g</field>
-    <field name="product_price">1,360</field>
+    <field name="product_price">1,120</field>
+</doc> <doc>
+    <field name="id">110</field>
+    <field name="product_code">CPR111</field>
+    <field name="product_name">今までなかった粉チーズ</field>
+    <field name="product_unit_amount">1200g</field>
     <field name="product_maker">株式会社 えぐちフード</field>
     <field name="field_release_day">平成21年12月</field>
-</doc>
-<doc><field name="product_code">IKP112</field>
-    <field name="product_name">111</field>
-    <field name="product_unit_amount" >1150ml</field>
-    <field name="product_price">600</field>
+    <field name="product_price">1,360</field>
+</doc> <doc>
+    <field name="id">111</field>
+    <field name="product_code">IKP112</field>
+    <field name="product_name">デリシャス抹茶</field>
+    <field name="product_unit_amount">1150ml</field>
     <field name="product_maker">株式会社 ブラック・マリーフード</field>
     <field name="field_release_day">平成16年12月</field>
-</doc>
-<doc><field name="product_code">ORU113</field>
-    <field name="product_name">112</field>
-    <field name="product_unit_amount" >900ml</field>
-    <field name="product_price">1,770</field>
+    <field name="product_price">600</field>
+</doc> <doc>
+    <field name="id">112</field>
+    <field name="product_code">ORU113</field>
+    <field name="product_name">健やかコーヒー</field>
+    <field name="product_unit_amount">900ml</field>
     <field name="product_maker">アケボノ化学工業 株式会社</field>
     <field name="field_release_day">平成21年03月</field>
-</doc>
-<doc><field name="product_code">AEN114</field>
-    <field name="product_name">113</field>
-    <field name="product_unit_amount" >550ml</field>
-    <field name="product_price">330</field>
+    <field name="product_price">1,770</field>
+</doc> <doc>
+    <field name="id">113</field>
+    <field name="product_code">AEN114</field>
+    <field name="product_name">高級コーヒー牛乳</field>
+    <field name="product_unit_amount">550ml</field>
     <field name="product_maker"> 株式会社 テーラー・バートン乳業</field>
     <field name="field_release_day">平成15年09月</field>
-</doc>
-<doc><field name="product_code">GJK115</field>
-    <field name="product_name">114</field>
-    <field name="product_unit_amount" >500ml</field>
-    <field name="product_price">1,250</field>
+    <field name="product_price">330</field>
+</doc> <doc>
+    <field name="id">114</field>
+    <field name="product_code">GJK115</field>
+    <field name="product_name">からだよろこぶ豆乳</field>
+    <field name="product_unit_amount">500ml</field>
     <field name="product_maker"> 株式会社 小田食品工業</field>
     <field name="field_release_day">平成14年02月</field>
-</doc>
-<doc><field name="product_code">ENU116</field>
-    <field name="product_name">115</field>
-    <field name="product_unit_amount" >1050g</field>
-    <field name="product_price">650</field>
+    <field name="product_price">1,250</field>
+</doc> <doc>
+    <field name="id">115</field>
+    <field name="product_code">ENU116</field>
+    <field name="product_name">オリジナルガーリック</field>
+    <field name="product_unit_amount">1050g</field>
     <field name="product_maker">株式会社 アケミ・あすかボトリング</field>
     <field name="field_release_day">平成19年03月</field>
-</doc>
-<doc><field name="product_code">CGO117</field>
-    <field name="product_name">116</field>
-    <field name="product_unit_amount" >500g</field>
-    <field name="product_price">340</field>
+    <field name="product_price">650</field>
+</doc> <doc>
+    <field name="id">116</field>
+    <field name="product_code">CGO117</field>
+    <field name="product_name">天然スライスチーズ</field>
+    <field name="product_unit_amount">500g</field>
     <field name="product_maker">あけぼの食品 株式会社</field>
     <field name="field_release_day">平成16年03月</field>
-</doc>
-<doc><field name="product_code">HKL118</field>
-    <field name="product_name">117</field>
-    <field name="product_unit_amount" >1100ml</field>
-    <field name="product_price">1,030</field>
+    <field name="product_price">340</field>
+</doc> <doc>
+    <field name="id">117</field>
+    <field name="product_code">HKL118</field>
+    <field name="product_name">エクストラお酢</field>
+    <field name="product_unit_amount">1100ml</field>
     <field name="product_maker"> 株式会社 ブル・ショットケミカル</field>
     <field name="field_release_day">平成18年10月</field>
-</doc>
-<doc><field name="product_code">IJT119</field>
-    <field name="product_name">118</field>
-    <field name="product_unit_amount" >750g</field>
-    <field name="product_price">650</field>
+    <field name="product_price">1,030</field>
+</doc> <doc>
+    <field name="id">118</field>
+    <field name="product_code">IJT119</field>
+    <field name="product_name">フレッシュ塩</field>
+    <field name="product_unit_amount">750g</field>
     <field name="product_maker"> 真鍋乳業 株式会社</field>
     <field name="field_release_day">平成13年09月</field>
-</doc>
-<doc><field name="product_code">LXZ120</field>
-    <field name="product_name">119</field>
-    <field name="product_unit_amount" >800ml</field>
-    <field name="product_price">1,450</field>
+    <field name="product_price">650</field>
+</doc> <doc>
+    <field name="id">119</field>
+    <field name="product_code">LXZ120</field>
+    <field name="product_name">ミルキー紅茶</field>
+    <field name="product_unit_amount">800ml</field>
     <field name="product_maker">クーペフード 株式会社</field>
     <field name="field_release_day">平成15年06月</field>
-</doc>
-<doc><field name="product_code">BJL121</field>
-    <field name="product_name">120</field>
-    <field name="product_unit_amount" >850ml</field>
-    <field name="product_price">950</field>
+    <field name="product_price">1,450</field>
+</doc> <doc>
+    <field name="id">120</field>
+    <field name="product_code">BJL121</field>
+    <field name="product_name">みんなのオリーブオイル</field>
+    <field name="product_unit_amount">850ml</field>
     <field name="product_maker">ビッグ・アップルボトリング 株式会社</field>
     <field name="field_release_day">平成15年05月</field>
-</doc>
-<doc><field name="product_code">BKV122</field>
-    <field name="product_name">121</field>
-    <field name="product_unit_amount" >350ml</field>
-    <field name="product_price">1,730</field>
+    <field name="product_price">950</field>
+</doc> <doc>
+    <field name="id">121</field>
+    <field name="product_code">BKV122</field>
+    <field name="product_name">プレミアムオリーブオイル</field>
+    <field name="product_unit_amount">350ml</field>
     <field name="product_maker">株式会社 真鍋ケミカル</field>
     <field name="field_release_day">平成21年09月</field>
-</doc>
-<doc><field name="product_code">DMW123</field>
-    <field name="product_name">122</field>
-    <field name="product_unit_amount" >300ml</field>
-    <field name="product_price">1,310</field>
+    <field name="product_price">1,730</field>
+</doc> <doc>
+    <field name="id">122</field>
+    <field name="product_code">DMW123</field>
+    <field name="product_name">極上お茶</field>
+    <field name="product_unit_amount">300ml</field>
     <field name="product_maker"> もりやま・金沢乳業 株式会社</field>
     <field name="field_release_day">平成20年08月</field>
-</doc>
-<doc><field name="product_code">FMQ124</field>
-    <field name="product_name">123</field>
-    <field name="product_unit_amount" >1100ml</field>
-    <field name="product_price">820</field>
+    <field name="product_price">1,310</field>
+</doc> <doc>
+    <field name="id">123</field>
+    <field name="product_code">FMQ124</field>
+    <field name="product_name">デラックスコーヒー牛乳</field>
+    <field name="product_unit_amount">1100ml</field>
     <field name="product_maker">株式会社 パン・ド・ドウ・リーブルケミカル</field>
     <field name="field_release_day">平成16年04月</field>
-</doc>
-<doc><field name="product_code">DJP125</field>
-    <field name="product_name">124</field>
-    <field name="product_unit_amount" >550ml</field>
-    <field name="product_price">1,650</field>
+    <field name="product_price">820</field>
+</doc> <doc>
+    <field name="id">124</field>
+    <field name="product_code">DJP125</field>
+    <field name="product_name">大自然がくれた紅茶</field>
+    <field name="product_unit_amount">550ml</field>
     <field name="product_maker">株式会社 バタール水産</field>
     <field name="field_release_day">平成14年07月</field>
-</doc>
-<doc><field name="product_code">EKS126</field>
-    <field name="product_name">125</field>
-    <field name="product_unit_amount" >750ml</field>
-    <field name="product_price">970</field>
+    <field name="product_price">1,650</field>
+</doc> <doc>
+    <field name="id">125</field>
+    <field name="product_code">EKS126</field>
+    <field name="product_name">ヘルシーコーヒー牛乳</field>
+    <field name="product_unit_amount">750ml</field>
     <field name="product_maker">ドレスデン・グリーン食品工業 株式会社</field>
     <field name="field_release_day">平成22年07月</field>
-</doc>
-<doc><field name="product_code">FIV127</field>
-    <field name="product_name">126</field>
-    <field name="product_unit_amount" >500g</field>
-    <field name="product_price">920</field>
+    <field name="product_price">970</field>
+</doc> <doc>
+    <field name="id">126</field>
+    <field name="product_code">FIV127</field>
+    <field name="product_name">料理用ガーリック</field>
+    <field name="product_unit_amount">500g</field>
     <field name="product_maker"> 株式会社 江口化学工業</field>
     <field name="field_release_day">平成18年04月</field>
-</doc>
-<doc><field name="product_code">JMP128</field>
-    <field name="product_name">127</field>
-    <field name="product_unit_amount" >400ml</field>
-    <field name="product_price">1,380</field>
+    <field name="product_price">920</field>
+</doc> <doc>
+    <field name="id">127</field>
+    <field name="product_code">JMP128</field>
+    <field name="product_name">最高級豆乳</field>
+    <field name="product_unit_amount">400ml</field>
     <field name="product_maker"> 真鍋食品工業 株式会社</field>
     <field name="field_release_day">平成18年10月</field>
-</doc>
-<doc><field name="product_code">FXZ129</field>
-    <field name="product_name">128</field>
-    <field name="product_unit_amount" >900ml</field>
-    <field name="product_price">480</field>
+    <field name="product_price">1,380</field>
+</doc> <doc>
+    <field name="id">128</field>
+    <field name="product_code">FXZ129</field>
+    <field name="product_name">最高級コーヒー牛乳</field>
+    <field name="product_unit_amount">900ml</field>
     <field name="product_maker">小田乳業 株式会社</field>
     <field name="field_release_day">平成18年12月</field>
-</doc>
-<doc><field name="product_code">NOY130</field>
-    <field name="product_name">129</field>
-    <field name="product_unit_amount" >450g</field>
-    <field name="product_price">360</field>
+    <field name="product_price">480</field>
+</doc> <doc>
+    <field name="id">129</field>
+    <field name="product_code">NOY130</field>
+    <field name="product_name">みんなのスライスチーズ</field>
+    <field name="product_unit_amount">450g</field>
     <field name="product_maker">株式会社 ダッドリー・ダイヤモンドケミカル</field>
     <field name="field_release_day">平成14年05月</field>
-</doc>
-<doc><field name="product_code">CJV131</field>
-    <field name="product_name">130</field>
-    <field name="product_unit_amount" >550g</field>
-    <field name="product_price">1,660</field>
+    <field name="product_price">360</field>
+</doc> <doc>
+    <field name="id">130</field>
+    <field name="product_code">CJV131</field>
+    <field name="product_name">熟成バター</field>
+    <field name="product_unit_amount">550g</field>
     <field name="product_maker">アサガオ化学 株式会社</field>
     <field name="field_release_day">平成20年10月</field>
-</doc>
-<doc><field name="product_code">OTX132</field>
-    <field name="product_name">131</field>
-    <field name="product_unit_amount" >750ml</field>
-    <field name="product_price">1,580</field>
+    <field name="product_price">1,660</field>
+</doc> <doc>
+    <field name="id">131</field>
+    <field name="product_code">OTX132</field>
+    <field name="product_name">今までなかったお茶</field>
+    <field name="product_unit_amount">750ml</field>
     <field name="product_maker">株式会社 ハート・オブ・エタニティ乳業</field>
     <field name="field_release_day">平成22年05月</field>
-</doc>
-<doc><field name="product_code">ABU133</field>
-    <field name="product_name">132</field>
-    <field name="product_unit_amount" >1100ml</field>
-    <field name="product_price">1,350</field>
+    <field name="product_price">1,580</field>
+</doc> <doc>
+    <field name="id">132</field>
+    <field name="product_code">ABU133</field>
+    <field name="product_name">プレミアムコーヒー牛乳</field>
+    <field name="product_unit_amount">1100ml</field>
     <field name="product_maker">アサガラケミカル 株式会社</field>
     <field name="field_release_day">平成12年03月</field>
-</doc>
-<doc><field name="product_code">KNO134</field>
-    <field name="product_name">133</field>
-    <field name="product_unit_amount" >650g</field>
-    <field name="product_price">530</field>
+    <field name="product_price">1,350</field>
+</doc> <doc>
+    <field name="id">133</field>
+    <field name="product_code">KNO134</field>
+    <field name="product_name">極上マーガリン</field>
+    <field name="product_unit_amount">650g</field>
     <field name="product_maker">株式会社 サナ・シベリア食品工業</field>
     <field name="field_release_day">平成22年02月</field>
-</doc>
-<doc><field name="product_code">HOR135</field>
-    <field name="product_name">134</field>
-    <field name="product_unit_amount" >400ml</field>
-    <field name="product_price">490</field>
+    <field name="product_price">530</field>
+</doc> <doc>
+    <field name="id">134</field>
+    <field name="product_code">HOR135</field>
+    <field name="product_name">極上緑茶</field>
+    <field name="product_unit_amount">400ml</field>
     <field name="product_maker">株式会社 あさがら乳業</field>
     <field name="field_release_day">平成13年03月</field>
-</doc>
-<doc><field name="product_code">JLU136</field>
-    <field name="product_name">135</field>
-    <field name="product_unit_amount" >500g</field>
-    <field name="product_price">940</field>
+    <field name="product_price">490</field>
+</doc> <doc>
+    <field name="id">135</field>
+    <field name="product_code">JLU136</field>
+    <field name="product_name">ミルキー粉チーズ</field>
+    <field name="product_unit_amount">500g</field>
     <field name="product_maker"> あすか食品 株式会社</field>
     <field name="field_release_day">平成12年06月</field>
-</doc>
-<doc><field name="product_code">FHY137</field>
-    <field name="product_name">136</field>
-    <field name="product_unit_amount" >450ml</field>
-    <field name="product_price">690</field>
+    <field name="product_price">940</field>
+</doc> <doc>
+    <field name="id">136</field>
+    <field name="product_code">FHY137</field>
+    <field name="product_name">純正コーヒー牛乳</field>
+    <field name="product_unit_amount">450ml</field>
     <field name="product_maker"> 株式会社 ソルボンヌ・ネロネ水産</field>
     <field name="field_release_day">平成14年08月</field>
-</doc>
-<doc><field name="product_code">KLZ138</field>
-    <field name="product_name">137</field>
-    <field name="product_unit_amount" >300ml</field>
-    <field name="product_price">1,450</field>
+    <field name="product_price">690</field>
+</doc> <doc>
+    <field name="id">137</field>
+    <field name="product_code">KLZ138</field>
+    <field name="product_name">高級豆乳</field>
+    <field name="product_unit_amount">300ml</field>
     <field name="product_maker"> 株式会社 アケミ・あすか水産</field>
     <field name="field_release_day">平成18年07月</field>
-</doc>
-<doc><field name="product_code">RTX139</field>
-    <field name="product_name">138</field>
-    <field name="product_unit_amount" >550ml</field>
-    <field name="product_price">1,500</field>
+    <field name="product_price">1,450</field>
+</doc> <doc>
+    <field name="id">138</field>
+    <field name="product_code">RTX139</field>
+    <field name="product_name">極旨お茶</field>
+    <field name="product_unit_amount">550ml</field>
     <field name="product_maker">株式会社 えぐち水産</field>
     <field name="field_release_day">平成18年12月</field>
-</doc>
-<doc><field name="product_code">MTU140</field>
-    <field name="product_name">139</field>
-    <field name="product_unit_amount" >900ml</field>
-    <field name="product_price">1,430</field>
+    <field name="product_price">1,500</field>
+</doc> <doc>
+    <field name="id">139</field>
+    <field name="product_code">MTU140</field>
+    <field name="product_name">熟成コーヒー</field>
+    <field name="product_unit_amount">900ml</field>
     <field name="product_maker">アケボノケミカル 株式会社</field>
     <field name="field_release_day">平成19年06月</field>
-</doc>
-<doc><field name="product_code">CNY141</field>
-    <field name="product_name">140</field>
-    <field name="product_unit_amount" >1100ml</field>
-    <field name="product_price">1,350</field>
+    <field name="product_price">1,430</field>
+</doc> <doc>
+    <field name="id">140</field>
+    <field name="product_code">CNY141</field>
+    <field name="product_name">奇跡のコーヒー牛乳</field>
+    <field name="product_unit_amount">1100ml</field>
     <field name="product_maker">ブラック・シーザーバイオ 株式会社</field>
     <field name="field_release_day">平成14年10月</field>
-</doc>
-<doc><field name="product_code">INV142</field>
-    <field name="product_name">141</field>
-    <field name="product_unit_amount" >350ml</field>
-    <field name="product_price">360</field>
+    <field name="product_price">1,350</field>
+</doc> <doc>
+    <field name="id">141</field>
+    <field name="product_code">INV142</field>
+    <field name="product_name">奇跡の緑茶</field>
+    <field name="product_unit_amount">350ml</field>
     <field name="product_maker">株式会社 松浦ボトリング</field>
     <field name="field_release_day">平成21年01月</field>
-</doc>
-<doc><field name="product_code">ITW143</field>
-    <field name="product_name">142</field>
-    <field name="product_unit_amount" >1100ml</field>
-    <field name="product_price">510</field>
+    <field name="product_price">360</field>
+</doc> <doc>
+    <field name="id">142</field>
+    <field name="product_code">ITW143</field>
+    <field name="product_name">ミルキー豆乳</field>
+    <field name="product_unit_amount">1100ml</field>
     <field name="product_maker">株式会社 江口製糖</field>
     <field name="field_release_day">平成21年08月</field>
-</doc>
-<doc><field name="product_code">NOQ144</field>
-    <field name="product_name">143</field>
-    <field name="product_unit_amount" >850ml</field>
-    <field name="product_price">1,160</field>
+    <field name="product_price">510</field>
+</doc> <doc>
+    <field name="id">143</field>
+    <field name="product_code">NOQ144</field>
+    <field name="product_name">極上お酢</field>
+    <field name="product_unit_amount">850ml</field>
     <field name="product_maker">株式会社 ディープディーン乳業</field>
     <field name="field_release_day">平成18年08月</field>
-</doc>
-<doc><field name="product_code">DMP145</field>
-    <field name="product_name">144</field>
-    <field name="product_unit_amount" >1150ml</field>
-    <field name="product_price">1,350</field>
+    <field name="product_price">1,160</field>
+</doc> <doc>
+    <field name="id">144</field>
+    <field name="product_code">DMP145</field>
+    <field name="product_name">徳用紅茶</field>
+    <field name="product_unit_amount">1150ml</field>
     <field name="product_maker">バラライカボトリング 株式会社</field>
     <field name="field_release_day">平成16年08月</field>
-</doc>
-<doc><field name="product_code">OPV146</field>
-    <field name="product_name">145</field>
-    <field name="product_unit_amount" >1200ml</field>
-    <field name="product_price">590</field>
+    <field name="product_price">1,350</field>
+</doc> <doc>
+    <field name="id">145</field>
+    <field name="product_code">OPV146</field>
+    <field name="product_name">大自然がくれたウーロン茶</field>
+    <field name="product_unit_amount">1200ml</field>
     <field name="product_maker">株式会社 小田ケミカル</field>
     <field name="field_release_day">平成20年05月</field>
-</doc>
-<doc><field name="product_code">DGQ147</field>
-    <field name="product_name">146</field>
-    <field name="product_unit_amount" >1150g</field>
-    <field name="product_price">850</field>
+    <field name="product_price">590</field>
+</doc> <doc>
+    <field name="id">146</field>
+    <field name="product_code">DGQ147</field>
+    <field name="product_name">今までなかったチーズ</field>
+    <field name="product_unit_amount">1150g</field>
     <field name="product_maker">株式会社 コウノ製糖</field>
     <field name="field_release_day">平成14年05月</field>
-</doc>
-<doc><field name="product_code">HIQ148</field>
-    <field name="product_name">147</field>
-    <field name="product_unit_amount" >400g</field>
-    <field name="product_price">1,520</field>
+    <field name="product_price">850</field>
+</doc> <doc>
+    <field name="id">147</field>
+    <field name="product_code">HIQ148</field>
+    <field name="product_name">デリシャスチーズ</field>
+    <field name="product_unit_amount">400g</field>
     <field name="product_maker">わかばやし・江口化学 株式会社</field>
     <field name="field_release_day">平成16年05月</field>
-</doc>
-<doc><field name="product_code">HKR149</field>
-    <field name="product_name">148</field>
-    <field name="product_unit_amount" >600g</field>
-    <field name="product_price">440</field>
+    <field name="product_price">1,520</field>
+</doc> <doc>
+    <field name="id">148</field>
+    <field name="product_code">HKR149</field>
+    <field name="product_name">極上チーズ</field>
+    <field name="product_unit_amount">600g</field>
     <field name="product_maker"> かまた化学 株式会社</field>
     <field name="field_release_day">平成16年08月</field>
-</doc>
-<doc><field name="product_code">BGS150</field>
-    <field name="product_name">149</field>
-    <field name="product_unit_amount" >1000ml</field>
-    <field name="product_price">600</field>
+    <field name="product_price">440</field>
+</doc> <doc>
+    <field name="id">149</field>
+    <field name="product_code">BGS150</field>
+    <field name="product_name">極上ウーロン茶</field>
+    <field name="product_unit_amount">1000ml</field>
     <field name="product_maker">株式会社 パン・ド・ミー食品工業</field>
     <field name="field_release_day">平成12年05月</field>
-</doc>
-<doc><field name="product_code">BFJ151</field>
-    <field name="product_name">150</field>
-    <field name="product_unit_amount" >900ml</field>
-    <field name="product_price">1,750</field>
+    <field name="product_price">600</field>
+</doc> <doc>
+    <field name="id">150</field>
+    <field name="product_code">BFJ151</field>
+    <field name="product_name">オリジナル紅茶</field>
+    <field name="product_unit_amount">900ml</field>
     <field name="product_maker">株式会社 荒木食品</field>
     <field name="field_release_day">平成12年09月</field>
-</doc>
-<doc><field name="product_code">EXY152</field>
-    <field name="product_name">151</field>
-    <field name="product_unit_amount" >1000g</field>
-    <field name="product_price">910</field>
+    <field name="product_price">1,750</field>
+</doc> <doc>
+    <field name="id">151</field>
+    <field name="product_code">EXY152</field>
+    <field name="product_name">デラックス粉チーズ</field>
+    <field name="product_unit_amount">1000g</field>
     <field name="product_maker">ブラック・ブルフード 株式会社</field>
     <field name="field_release_day">平成13年06月</field>
-</doc>
-<doc><field name="product_code">DKS153</field>
-    <field name="product_name">152</field>
-    <field name="product_unit_amount" >1150ml</field>
-    <field name="product_price">630</field>
+    <field name="product_price">910</field>
+</doc> <doc>
+    <field name="id">152</field>
+    <field name="product_code">DKS153</field>
+    <field name="product_name">ミルキー紅茶</field>
+    <field name="product_unit_amount">1150ml</field>
     <field name="product_maker">株式会社 あらい化学工業</field>
     <field name="field_release_day">平成12年10月</field>
-</doc>
-<doc><field name="product_code">IKZ154</field>
-    <field name="product_name">153</field>
-    <field name="product_unit_amount" >1200ml</field>
-    <field name="product_price">1,010</field>
+    <field name="product_price">630</field>
+</doc> <doc>
+    <field name="id">153</field>
+    <field name="product_code">IKZ154</field>
+    <field name="product_name">プレミアムお茶</field>
+    <field name="product_unit_amount">1200ml</field>
     <field name="product_maker">パン・ド・ドウ・リーブルケミカル 株式会社</field>
     <field name="field_release_day">平成18年05月</field>
-</doc>
-<doc><field name="product_code">BMO155</field>
-    <field name="product_name">154</field>
-    <field name="product_unit_amount" >700ml</field>
-    <field name="product_price">1,690</field>
+    <field name="product_price">1,010</field>
+</doc> <doc>
+    <field name="id">154</field>
+    <field name="product_code">BMO155</field>
+    <field name="product_name">極旨ウーロン茶</field>
+    <field name="product_unit_amount">700ml</field>
     <field name="product_maker"> ドレスデン・グリーン水産 株式会社</field>
     <field name="field_release_day">平成20年02月</field>
-</doc>
-<doc><field name="product_code">HXZ156</field>
-    <field name="product_name">155</field>
-    <field name="product_unit_amount" >350ml</field>
-    <field name="product_price">1,590</field>
+    <field name="product_price">1,690</field>
+</doc> <doc>
+    <field name="id">155</field>
+    <field name="product_code">HXZ156</field>
+    <field name="product_name">みんなのお酢</field>
+    <field name="product_unit_amount">350ml</field>
     <field name="product_maker">株式会社 クーペ化学工業</field>
     <field name="field_release_day">平成15年01月</field>
-</doc>
-<doc><field name="product_code">FGT157</field>
-    <field name="product_name">156</field>
-    <field name="product_unit_amount" >850ml</field>
-    <field name="product_price">500</field>
+    <field name="product_price">1,590</field>
+</doc> <doc>
+    <field name="id">156</field>
+    <field name="product_code">FGT157</field>
+    <field name="product_name">デリシャス紅茶</field>
+    <field name="product_unit_amount">850ml</field>
     <field name="product_maker">株式会社 えんでん食品工業</field>
     <field name="field_release_day">平成21年08月</field>
-</doc>
-<doc><field name="product_code">FOU158</field>
-    <field name="product_name">157</field>
-    <field name="product_unit_amount" >450ml</field>
-    <field name="product_price">660</field>
+    <field name="product_price">500</field>
+</doc> <doc>
+    <field name="id">157</field>
+    <field name="product_code">FOU158</field>
+    <field name="product_name">デリシャス牛乳</field>
+    <field name="product_unit_amount">450ml</field>
     <field name="product_maker"> 河野化学工業 株式会社</field>
     <field name="field_release_day">平成12年09月</field>
-</doc>
-<doc><field name="product_code">GRU159</field>
-    <field name="product_name">158</field>
-    <field name="product_unit_amount" >650g</field>
-    <field name="product_price">1,220</field>
+    <field name="product_price">660</field>
+</doc> <doc>
+    <field name="id">158</field>
+    <field name="product_code">GRU159</field>
+    <field name="product_name">みんなのスライスチーズ</field>
+    <field name="product_unit_amount">650g</field>
     <field name="product_maker">ふじもとケミカル 株式会社</field>
     <field name="field_release_day">平成20年08月</field>
-</doc>
-<doc><field name="product_code">HOQ160</field>
-    <field name="product_name">159</field>
-    <field name="product_unit_amount" >700ml</field>
-    <field name="product_price">410</field>
+    <field name="product_price">1,220</field>
+</doc> <doc>
+    <field name="id">159</field>
+    <field name="product_code">HOQ160</field>
+    <field name="product_name">プレミアム抹茶</field>
+    <field name="product_unit_amount">700ml</field>
     <field name="product_maker">株式会社 藤本化学工業</field>
     <field name="field_release_day">平成15年01月</field>
-</doc>
-<doc><field name="product_code">BDJ161</field>
-    <field name="product_name">160</field>
-    <field name="product_unit_amount" >400ml</field>
-    <field name="product_price">520</field>
+    <field name="product_price">410</field>
+</doc> <doc>
+    <field name="id">160</field>
+    <field name="product_code">BDJ161</field>
+    <field name="product_name">徳用ミネラルウォーター</field>
+    <field name="product_unit_amount">400ml</field>
     <field name="product_maker">株式会社 アキニレバイオ</field>
     <field name="field_release_day">平成20年03月</field>
-</doc>
-<doc><field name="product_code">GJZ162</field>
-    <field name="product_name">161</field>
-    <field name="product_unit_amount" >1000ml</field>
-    <field name="product_price">610</field>
+    <field name="product_price">520</field>
+</doc> <doc>
+    <field name="id">161</field>
+    <field name="product_code">GJZ162</field>
+    <field name="product_name">健やかお茶</field>
+    <field name="product_unit_amount">1000ml</field>
     <field name="product_maker">まつうら製糖 株式会社</field>
     <field name="field_release_day">平成13年06月</field>
-</doc>
-<doc><field name="product_code">FNZ163</field>
-    <field name="product_name">162</field>
-    <field name="product_unit_amount" >1150g</field>
-    <field name="product_price">790</field>
+    <field name="product_price">610</field>
+</doc> <doc>
+    <field name="id">162</field>
+    <field name="product_code">FNZ163</field>
+    <field name="product_name">純正ガーリック</field>
+    <field name="product_unit_amount">1150g</field>
     <field name="product_maker">バタール乳業 株式会社</field>
     <field name="field_release_day">平成14年12月</field>
-</doc>
-<doc><field name="product_code">EMS164</field>
-    <field name="product_name">163</field>
-    <field name="product_unit_amount" >900ml</field>
-    <field name="product_price">760</field>
+    <field name="product_price">790</field>
+</doc> <doc>
+    <field name="id">163</field>
+    <field name="product_code">EMS164</field>
+    <field name="product_name">おいしいミネラルウォーター</field>
+    <field name="product_unit_amount">900ml</field>
     <field name="product_maker"> 塩田フード 株式会社</field>
     <field name="field_release_day">平成21年05月</field>
-</doc>
-<doc><field name="product_code">CDQ165</field>
-    <field name="product_name">164</field>
-    <field name="product_unit_amount" >350g</field>
-    <field name="product_price">1,070</field>
+    <field name="product_price">760</field>
+</doc> <doc>
+    <field name="id">164</field>
+    <field name="product_code">CDQ165</field>
+    <field name="product_name">健康ガーリック</field>
+    <field name="product_unit_amount">350g</field>
     <field name="product_maker">株式会社 セーラ・セシール水産</field>
     <field name="field_release_day">平成13年03月</field>
-</doc>
-<doc><field name="product_code">MQT166</field>
-    <field name="product_name">165</field>
-    <field name="product_unit_amount" >600g</field>
-    <field name="product_price">1,600</field>
+    <field name="product_price">1,070</field>
+</doc> <doc>
+    <field name="id">165</field>
+    <field name="product_code">MQT166</field>
+    <field name="product_name">デラックススライスチーズ</field>
+    <field name="product_unit_amount">600g</field>
     <field name="product_maker">カナザワ化学工業 株式会社</field>
     <field name="field_release_day">平成17年03月</field>
-</doc>
-<doc><field name="product_code">GKQ167</field>
-    <field name="product_name">166</field>
-    <field name="product_unit_amount" >300ml</field>
-    <field name="product_price">1,280</field>
+    <field name="product_price">1,600</field>
+</doc> <doc>
+    <field name="id">166</field>
+    <field name="product_code">GKQ167</field>
+    <field name="product_name">大自然がくれた抹茶</field>
+    <field name="product_unit_amount">300ml</field>
     <field name="product_maker"> 神谷ケミカル 株式会社</field>
     <field name="field_release_day">平成17年03月</field>
-</doc>
-<doc><field name="product_code">JMW168</field>
-    <field name="product_name">167</field>
-    <field name="product_unit_amount" >350ml</field>
-    <field name="product_price">510</field>
+    <field name="product_price">1,280</field>
+</doc> <doc>
+    <field name="id">167</field>
+    <field name="product_code">JMW168</field>
+    <field name="product_name">ミルキー豆乳</field>
+    <field name="product_unit_amount">350ml</field>
     <field name="product_maker">鎌田水産 株式会社</field>
     <field name="field_release_day">平成13年12月</field>
-</doc>
-<doc><field name="product_code">DRX169</field>
-    <field name="product_name">168</field>
-    <field name="product_unit_amount" >750g</field>
-    <field name="product_price">680</field>
+    <field name="product_price">510</field>
+</doc> <doc>
+    <field name="id">168</field>
+    <field name="product_code">DRX169</field>
+    <field name="product_name">極旨ガーリック</field>
+    <field name="product_unit_amount">750g</field>
     <field name="product_maker"> 株式会社 あけび水産</field>
     <field name="field_release_day">平成22年04月</field>
-</doc>
-<doc><field name="product_code">KRX170</field>
-    <field name="product_name">169</field>
-    <field name="product_unit_amount" >300ml</field>
-    <field name="product_price">1,270</field>
+    <field name="product_price">680</field>
+</doc> <doc>
+    <field name="id">169</field>
+    <field name="product_code">KRX170</field>
+    <field name="product_name">大自然のオリーブオイル</field>
+    <field name="product_unit_amount">300ml</field>
     <field name="product_maker">荒木食品工業 株式会社</field>
     <field name="field_release_day">平成22年07月</field>
-</doc>
-<doc><field name="product_code">ADN171</field>
-    <field name="product_name">170</field>
-    <field name="product_unit_amount" >600ml</field>
-    <field name="product_price">1,030</field>
+    <field name="product_price">1,270</field>
+</doc> <doc>
+    <field name="id">170</field>
+    <field name="product_code">ADN171</field>
+    <field name="product_name">大自然のウーロン茶</field>
+    <field name="product_unit_amount">600ml</field>
     <field name="product_maker"> 株式会社 村田ケミカル</field>
     <field name="field_release_day">平成21年08月</field>
-</doc>
-<doc><field name="product_code">MUZ172</field>
-    <field name="product_name">171</field>
-    <field name="product_unit_amount" >1050ml</field>
-    <field name="product_price">1,240</field>
+    <field name="product_price">1,030</field>
+</doc> <doc>
+    <field name="id">171</field>
+    <field name="product_code">MUZ172</field>
+    <field name="product_name">おいしいミネラルウォーター</field>
+    <field name="product_unit_amount">1050ml</field>
     <field name="product_maker"> あらき水産 株式会社</field>
     <field name="field_release_day">平成14年12月</field>
-</doc>
-<doc><field name="product_code">FUZ173</field>
-    <field name="product_name">172</field>
-    <field name="product_unit_amount" >1050g</field>
-    <field name="product_price">850</field>
+    <field name="product_price">1,240</field>
+</doc> <doc>
+    <field name="id">172</field>
+    <field name="product_code">FUZ173</field>
+    <field name="product_name">フレッシュ塩</field>
+    <field name="product_unit_amount">1050g</field>
     <field name="product_maker"> 株式会社 オギワラ化学工業</field>
     <field name="field_release_day">平成15年01月</field>
-</doc>
-<doc><field name="product_code">HMU174</field>
-    <field name="product_name">173</field>
-    <field name="product_unit_amount" >500ml</field>
-    <field name="product_price">1,140</field>
+    <field name="product_price">850</field>
+</doc> <doc>
+    <field name="id">173</field>
+    <field name="product_code">HMU174</field>
+    <field name="product_name">高級お酢</field>
+    <field name="product_unit_amount">500ml</field>
     <field name="product_maker"> あらい乳業 株式会社</field>
     <field name="field_release_day">平成15年08月</field>
-</doc>
-<doc><field name="product_code">HJT175</field>
-    <field name="product_name">174</field>
-    <field name="product_unit_amount" >600g</field>
-    <field name="product_price">1,530</field>
+    <field name="product_price">1,140</field>
+</doc> <doc>
+    <field name="id">174</field>
+    <field name="product_code">HJT175</field>
+    <field name="product_name">おいしいチョコレート</field>
+    <field name="product_unit_amount">600g</field>
     <field name="product_maker">エグチ水産 株式会社</field>
     <field name="field_release_day">平成22年09月</field>
-</doc>
-<doc><field name="product_code">CGV176</field>
-    <field name="product_name">175</field>
-    <field name="product_unit_amount" >500ml</field>
-    <field name="product_price">1,610</field>
+    <field name="product_price">1,530</field>
+</doc> <doc>
+    <field name="id">175</field>
+    <field name="product_code">CGV176</field>
+    <field name="product_name">フレッシュミネラルウォーター</field>
+    <field name="product_unit_amount">500ml</field>
     <field name="product_maker"> ドレスデン・グリーン乳業 株式会社</field>
     <field name="field_release_day">平成15年10月</field>
-</doc>
-<doc><field name="product_code">JTX177</field>
-    <field name="product_name">176</field>
-    <field name="product_unit_amount" >400ml</field>
-    <field name="product_price">1,180</field>
+    <field name="product_price">1,610</field>
+</doc> <doc>
+    <field name="id">176</field>
+    <field name="product_code">JTX177</field>
+    <field name="product_name">極上豆乳</field>
+    <field name="product_unit_amount">400ml</field>
     <field name="product_maker">ブラック・ブル食品工業 株式会社</field>
     <field name="field_release_day">平成16年06月</field>
-</doc>
-<doc><field name="product_code">DGM178</field>
-    <field name="product_name">177</field>
-    <field name="product_unit_amount" >800g</field>
-    <field name="product_price">1,620</field>
+    <field name="product_price">1,180</field>
+</doc> <doc>
+    <field name="id">177</field>
+    <field name="product_code">DGM178</field>
+    <field name="product_name">徳用塩</field>
+    <field name="product_unit_amount">800g</field>
     <field name="product_maker">株式会社 えんでん水産</field>
     <field name="field_release_day">平成13年12月</field>
-</doc>
-<doc><field name="product_code">FVW179</field>
-    <field name="product_name">178</field>
-    <field name="product_unit_amount" >1200ml</field>
-    <field name="product_price">860</field>
+    <field name="product_price">1,620</field>
+</doc> <doc>
+    <field name="id">178</field>
+    <field name="product_code">FVW179</field>
+    <field name="product_name">プレミアム抹茶</field>
+    <field name="product_unit_amount">1200ml</field>
     <field name="product_maker">株式会社 塩田フード</field>
     <field name="field_release_day">平成21年01月</field>
-</doc>
-<doc><field name="product_code">ACV180</field>
-    <field name="product_name">179</field>
-    <field name="product_unit_amount" >850g</field>
-    <field name="product_price">350</field>
+    <field name="product_price">860</field>
+</doc> <doc>
+    <field name="id">179</field>
+    <field name="product_code">ACV180</field>
+    <field name="product_name">大自然のチーズ</field>
+    <field name="product_unit_amount">850g</field>
     <field name="product_maker"> かなざわ食品 株式会社</field>
     <field name="field_release_day">平成13年06月</field>
-</doc>
-<doc><field name="product_code">RUW181</field>
-    <field name="product_name">180</field>
-    <field name="product_unit_amount" >1150ml</field>
-    <field name="product_price">1,210</field>
+    <field name="product_price">350</field>
+</doc> <doc>
+    <field name="id">180</field>
+    <field name="product_code">RUW181</field>
+    <field name="product_name">料理用コーヒー</field>
+    <field name="product_unit_amount">1150ml</field>
     <field name="product_maker">えんでん水産 株式会社</field>
     <field name="field_release_day">平成15年01月</field>
-</doc>
-<doc><field name="product_code">ACP182</field>
-    <field name="product_name">181</field>
-    <field name="product_unit_amount" >350g</field>
-    <field name="product_price">750</field>
+    <field name="product_price">1,210</field>
+</doc> <doc>
+    <field name="id">181</field>
+    <field name="product_code">ACP182</field>
+    <field name="product_name">みんなのバター</field>
+    <field name="product_unit_amount">350g</field>
     <field name="product_maker"> あすか・ゲリットザルムココッサ水産 株式会社</field>
     <field name="field_release_day">平成16年03月</field>
-</doc>
-<doc><field name="product_code">CDJ183</field>
-    <field name="product_name">182</field>
-    <field name="product_unit_amount" >400g</field>
-    <field name="product_price">1,020</field>
+    <field name="product_price">750</field>
+</doc> <doc>
+    <field name="id">182</field>
+    <field name="product_code">CDJ183</field>
+    <field name="product_name">デラックスガーリック</field>
+    <field name="product_unit_amount">400g</field>
     <field name="product_maker"> 株式会社 えんでん化学</field>
     <field name="field_release_day">平成14年11月</field>
-</doc>
-<doc><field name="product_code">AKV184</field>
-    <field name="product_name">183</field>
-    <field name="product_unit_amount" >800ml</field>
-    <field name="product_price">410</field>
+    <field name="product_price">1,020</field>
+</doc> <doc>
+    <field name="id">183</field>
+    <field name="product_code">AKV184</field>
+    <field name="product_name">熟成豆乳</field>
+    <field name="product_unit_amount">800ml</field>
     <field name="product_maker">株式会社 大坪食品工業</field>
     <field name="field_release_day">平成22年11月</field>
-</doc>
-<doc><field name="product_code">CUX185</field>
-    <field name="product_name">184</field>
-    <field name="product_unit_amount" >1100ml</field>
-    <field name="product_price">390</field>
+    <field name="product_price">410</field>
+</doc> <doc>
+    <field name="id">184</field>
+    <field name="product_code">CUX185</field>
+    <field name="product_name">純正オリーブオイル</field>
+    <field name="product_unit_amount">1100ml</field>
     <field name="product_maker">ディープディーン水産 株式会社</field>
     <field name="field_release_day">平成20年06月</field>
-</doc>
-<doc><field name="product_code">FRY186</field>
-    <field name="product_name">185</field>
-    <field name="product_unit_amount" >300g</field>
-    <field name="product_price">1,300</field>
+    <field name="product_price">390</field>
+</doc> <doc>
+    <field name="id">185</field>
+    <field name="product_code">FRY186</field>
+    <field name="product_name">フレッシュチーズ</field>
+    <field name="product_unit_amount">300g</field>
     <field name="product_maker"> 株式会社 アキニレフード</field>
     <field name="field_release_day">平成18年02月</field>
-</doc>
-<doc><field name="product_code">KPT187</field>
-    <field name="product_name">186</field>
-    <field name="product_unit_amount" >550ml</field>
-    <field name="product_price">1,190</field>
+    <field name="product_price">1,300</field>
+</doc> <doc>
+    <field name="id">186</field>
+    <field name="product_code">KPT187</field>
+    <field name="product_name">デリシャス牛乳</field>
+    <field name="product_unit_amount">550ml</field>
     <field name="product_maker">株式会社 ディープディーン化学工業</field>
     <field name="field_release_day">平成20年06月</field>
-</doc>
-<doc><field name="product_code">ACD188</field>
-    <field name="product_name">187</field>
-    <field name="product_unit_amount" >1000ml</field>
-    <field name="product_price">540</field>
+    <field name="product_price">1,190</field>
+</doc> <doc>
+    <field name="id">187</field>
+    <field name="product_code">ACD188</field>
+    <field name="product_name">デリシャス抹茶</field>
+    <field name="product_unit_amount">1000ml</field>
     <field name="product_maker"> ふじもと食品工業 株式会社</field>
     <field name="field_release_day">平成16年10月</field>
-</doc>
-<doc><field name="product_code">HJT189</field>
-    <field name="product_name">188</field>
-    <field name="product_unit_amount" >1100g</field>
-    <field name="product_price">760</field>
+    <field name="product_price">540</field>
+</doc> <doc>
+    <field name="id">188</field>
+    <field name="product_code">HJT189</field>
+    <field name="product_name">熟成バター</field>
+    <field name="product_unit_amount">1100g</field>
     <field name="product_maker">株式会社 荒木食品</field>
     <field name="field_release_day">平成16年12月</field>
-</doc>
-<doc><field name="product_code">ADM190</field>
-    <field name="product_name">189</field>
-    <field name="product_unit_amount" >900g</field>
-    <field name="product_price">820</field>
+    <field name="product_price">760</field>
+</doc> <doc>
+    <field name="id">189</field>
+    <field name="product_code">ADM190</field>
+    <field name="product_name">大自然がくれたガーリック</field>
+    <field name="product_unit_amount">900g</field>
     <field name="product_maker">アケボノ食品工業 株式会社</field>
     <field name="field_release_day">平成14年01月</field>
-</doc>
-<doc><field name="product_code">FOX191</field>
-    <field name="product_name">190</field>
-    <field name="product_unit_amount" >1000g</field>
-    <field name="product_price">920</field>
+    <field name="product_price">820</field>
+</doc> <doc>
+    <field name="id">190</field>
+    <field name="product_code">FOX191</field>
+    <field name="product_name">ミルキーマーガリン</field>
+    <field name="product_unit_amount">1000g</field>
     <field name="product_maker">ソルボンヌ・ネロネ水産 株式会社</field>
     <field name="field_release_day">平成21年05月</field>
-</doc>
-<doc><field name="product_code">OVX192</field>
-    <field name="product_name">191</field>
-    <field name="product_unit_amount" >1050ml</field>
-    <field name="product_price">1,470</field>
+    <field name="product_price">920</field>
+</doc> <doc>
+    <field name="id">191</field>
+    <field name="product_code">OVX192</field>
+    <field name="product_name">奇跡のミネラルウォーター</field>
+    <field name="product_unit_amount">1050ml</field>
     <field name="product_maker">株式会社 大坪フード</field>
     <field name="field_release_day">平成16年04月</field>
-</doc>
-<doc><field name="product_code">DEQ193</field>
-    <field name="product_name">192</field>
-    <field name="product_unit_amount" >800g</field>
-    <field name="product_price">1,350</field>
+    <field name="product_price">1,470</field>
+</doc> <doc>
+    <field name="id">192</field>
+    <field name="product_code">DEQ193</field>
+    <field name="product_name">オリジナル塩</field>
+    <field name="product_unit_amount">800g</field>
     <field name="product_maker">江口化学工業 株式会社</field>
     <field name="field_release_day">平成12年01月</field>
-</doc>
-<doc><field name="product_code">CJQ194</field>
-    <field name="product_name">193</field>
-    <field name="product_unit_amount" >500g</field>
-    <field name="product_price">510</field>
+    <field name="product_price">1,350</field>
+</doc> <doc>
+    <field name="id">193</field>
+    <field name="product_code">CJQ194</field>
+    <field name="product_name">熟成マーガリン</field>
+    <field name="product_unit_amount">500g</field>
     <field name="product_maker">コウノ化学工業 株式会社</field>
     <field name="field_release_day">平成12年11月</field>
-</doc>
-<doc><field name="product_code">CEO195</field>
-    <field name="product_name">194</field>
-    <field name="product_unit_amount" >1100ml</field>
-    <field name="product_price">1,000</field>
+    <field name="product_price">510</field>
+</doc> <doc>
+    <field name="id">194</field>
+    <field name="product_code">CEO195</field>
+    <field name="product_name">最高級牛乳</field>
+    <field name="product_unit_amount">1100ml</field>
     <field name="product_maker"> ソルボンヌ・ネロネ食品工業 株式会社</field>
     <field name="field_release_day">平成15年05月</field>
-</doc>
-<doc><field name="product_code">FHW196</field>
-    <field name="product_name">195</field>
-    <field name="product_unit_amount" >300g</field>
-    <field name="product_price">1,270</field>
+    <field name="product_price">1,000</field>
+</doc> <doc>
+    <field name="id">195</field>
+    <field name="product_code">FHW196</field>
+    <field name="product_name">おいしいバター</field>
+    <field name="product_unit_amount">300g</field>
     <field name="product_maker">株式会社 ノーブルリリー食品工業</field>
     <field name="field_release_day">平成21年08月</field>
-</doc>
-<doc><field name="product_code">FJP197</field>
-    <field name="product_name">196</field>
-    <field name="product_unit_amount" >800ml</field>
-    <field name="product_price">920</field>
+    <field name="product_price">1,270</field>
+</doc> <doc>
+    <field name="id">196</field>
+    <field name="product_code">FJP197</field>
+    <field name="product_name">純正ウーロン茶</field>
+    <field name="product_unit_amount">800ml</field>
     <field name="product_maker">あらき乳業 株式会社</field>
     <field name="field_release_day">平成14年08月</field>
-</doc>
-<doc><field name="product_code">STY198</field>
-    <field name="product_name">197</field>
-    <field name="product_unit_amount" >1150g</field>
-    <field name="product_price">1,670</field>
+    <field name="product_price">920</field>
+</doc> <doc>
+    <field name="id">197</field>
+    <field name="product_code">STY198</field>
+    <field name="product_name">健康塩</field>
+    <field name="product_unit_amount">1150g</field>
     <field name="product_maker"> クーペ乳業 株式会社</field>
     <field name="field_release_day">平成13年09月</field>
-</doc>
-<doc><field name="product_code">OQX199</field>
-    <field name="product_name">198</field>
-    <field name="product_unit_amount" >1200ml</field>
-    <field name="product_price">390</field>
+    <field name="product_price">1,670</field>
+</doc> <doc>
+    <field name="id">198</field>
+    <field name="product_code">OQX199</field>
+    <field name="product_name">健康ウーロン茶</field>
+    <field name="product_unit_amount">1200ml</field>
     <field name="product_maker">ディープディーン化学 株式会社</field>
     <field name="field_release_day">平成22年10月</field>
-</doc>
-<doc><field name="product_code">LQU200</field>
-    <field name="product_name">199</field>
-    <field name="product_unit_amount" >1150g</field>
-    <field name="product_price">1,580</field>
+    <field name="product_price">390</field>
+</doc> <doc>
+    <field name="id">199</field>
+    <field name="product_code">LQU200</field>
+    <field name="product_name">からだにやさしいガーリック</field>
+    <field name="product_unit_amount">1150g</field>
     <field name="product_maker">株式会社 イマイ乳業</field>
     <field name="field_release_day">平成22年09月</field>
-</doc>
-<doc><field name="product_code">GPX201</field>
-    <field name="product_name">200</field>
-    <field name="product_unit_amount" >450g</field>
-    <field name="product_price">510</field>
+    <field name="product_price">1,580</field>
+</doc> <doc>
+    <field name="id">200</field>
+    <field name="product_code">GPX201</field>
+    <field name="product_name">極旨ガーリック</field>
+    <field name="product_unit_amount">450g</field>
     <field name="product_maker">ふるた化学 株式会社</field>
     <field name="field_release_day">平成17年06月</field>
-</doc>
-<doc><field name="product_code">FJP202</field>
-    <field name="product_name">201</field>
-    <field name="product_unit_amount" >500g</field>
-    <field name="product_price">1,370</field>
+    <field name="product_price">510</field>
+</doc> <doc>
+    <field name="id">201</field>
+    <field name="product_code">FJP202</field>
+    <field name="product_name">プレミアムバター</field>
+    <field name="product_unit_amount">500g</field>
     <field name="product_maker"> 株式会社 シェル食品</field>
     <field name="field_release_day">平成19年12月</field>
-</doc>
-<doc><field name="product_code">NQR203</field>
-    <field name="product_name">202</field>
-    <field name="product_unit_amount" >650ml</field>
-    <field name="product_price">1,640</field>
+    <field name="product_price">1,370</field>
+</doc> <doc>
+    <field name="id">202</field>
+    <field name="product_code">NQR203</field>
+    <field name="product_name">純正豆乳</field>
+    <field name="product_unit_amount">650ml</field>
     <field name="product_maker"> 株式会社 荒木乳業</field>
     <field name="field_release_day">平成12年07月</field>
-</doc>
-<doc><field name="product_code">NOR204</field>
-    <field name="product_name">203</field>
-    <field name="product_unit_amount" >800ml</field>
-    <field name="product_price">580</field>
+    <field name="product_price">1,640</field>
+</doc> <doc>
+    <field name="id">203</field>
+    <field name="product_code">NOR204</field>
+    <field name="product_name">デラックスコーヒー</field>
+    <field name="product_unit_amount">800ml</field>
     <field name="product_maker">西アジアケミカル 株式会社</field>
     <field name="field_release_day">平成13年07月</field>
-</doc>
-<doc><field name="product_code">AXZ205</field>
-    <field name="product_name">204</field>
-    <field name="product_unit_amount" >350ml</field>
-    <field name="product_price">650</field>
+    <field name="product_price">580</field>
+</doc> <doc>
+    <field name="id">204</field>
+    <field name="product_code">AXZ205</field>
+    <field name="product_name">おいしいミネラルウォーター</field>
+    <field name="product_unit_amount">350ml</field>
     <field name="product_maker">とよた食品 株式会社</field>
     <field name="field_release_day">平成17年05月</field>
-</doc>
-<doc><field name="product_code">MSW206</field>
-    <field name="product_name">205</field>
-    <field name="product_unit_amount" >750ml</field>
-    <field name="product_price">1,450</field>
+    <field name="product_price">650</field>
+</doc> <doc>
+    <field name="id">205</field>
+    <field name="product_code">MSW206</field>
+    <field name="product_name">奇跡の緑茶</field>
+    <field name="product_unit_amount">750ml</field>
     <field name="product_maker">松浦化成工業 株式会社</field>
     <field name="field_release_day">平成22年11月</field>
-</doc>
-<doc><field name="product_code">PUV207</field>
-    <field name="product_name">206</field>
-    <field name="product_unit_amount" >400ml</field>
-    <field name="product_price">1,440</field>
+    <field name="product_price">1,450</field>
+</doc> <doc>
+    <field name="id">206</field>
+    <field name="product_code">PUV207</field>
+    <field name="product_name">オリジナル紅茶</field>
+    <field name="product_unit_amount">400ml</field>
     <field name="product_maker"> 株式会社 下村フード</field>
     <field name="field_release_day">平成19年05月</field>
-</doc>
-<doc><field name="product_code">IJV208</field>
-    <field name="product_name">207</field>
-    <field name="product_unit_amount" >1100ml</field>
-    <field name="product_price">720</field>
+    <field name="product_price">1,440</field>
+</doc> <doc>
+    <field name="id">207</field>
+    <field name="product_code">IJV208</field>
+    <field name="product_name">ヘルシー牛乳</field>
+    <field name="product_unit_amount">1100ml</field>
     <field name="product_maker">株式会社 丹羽乳業</field>
     <field name="field_release_day">平成15年05月</field>
-</doc>
-<doc><field name="product_code">BFG209</field>
-    <field name="product_name">208</field>
-    <field name="product_unit_amount" >800g</field>
-    <field name="product_price">380</field>
+    <field name="product_price">720</field>
+</doc> <doc>
+    <field name="id">208</field>
+    <field name="product_code">BFG209</field>
+    <field name="product_name">今までなかった粉チーズ</field>
+    <field name="product_unit_amount">800g</field>
     <field name="product_maker">マッツァー製糖 株式会社</field>
     <field name="field_release_day">平成14年07月</field>
-</doc>
-<doc><field name="product_code">MNO210</field>
-    <field name="product_name">209</field>
-    <field name="product_unit_amount" >500g</field>
-    <field name="product_price">880</field>
+    <field name="product_price">380</field>
+</doc> <doc>
+    <field name="id">209</field>
+    <field name="product_code">MNO210</field>
+    <field name="product_name">健康マーガリン</field>
+    <field name="product_unit_amount">500g</field>
     <field name="product_maker">株式会社 プーリー・ヴォーク食品</field>
     <field name="field_release_day">平成20年10月</field>
-</doc>
-<doc><field name="product_code">IRU211</field>
-    <field name="product_name">210</field>
-    <field name="product_unit_amount" >300g</field>
-    <field name="product_price">490</field>
+    <field name="product_price">880</field>
+</doc> <doc>
+    <field name="id">210</field>
+    <field name="product_code">IRU211</field>
+    <field name="product_name">みんなの塩</field>
+    <field name="product_unit_amount">300g</field>
     <field name="product_maker">株式会社 亀山・かめやまバイオ</field>
     <field name="field_release_day">平成14年09月</field>
-</doc>
-<doc><field name="product_code">INY212</field>
-    <field name="product_name">211</field>
-    <field name="product_unit_amount" >500g</field>
-    <field name="product_price">920</field>
+    <field name="product_price">490</field>
+</doc> <doc>
+    <field name="id">211</field>
+    <field name="product_code">INY212</field>
+    <field name="product_name">大自然のジャム</field>
+    <field name="product_unit_amount">500g</field>
     <field name="product_maker"> にしはらフード 株式会社</field>
     <field name="field_release_day">平成15年08月</field>
-</doc>
-<doc><field name="product_code">DRV213</field>
-    <field name="product_name">212</field>
-    <field name="product_unit_amount" >850ml</field>
-    <field name="product_price">1,310</field>
+    <field name="product_price">920</field>
+</doc> <doc>
+    <field name="id">212</field>
+    <field name="product_code">DRV213</field>
+    <field name="product_name">最高級コーヒー牛乳</field>
+    <field name="product_unit_amount">850ml</field>
     <field name="product_maker"> 株式会社 さかた・おはら製糖</field>
     <field name="field_release_day">平成17年06月</field>
-</doc>
-<doc><field name="product_code">BLR214</field>
-    <field name="product_name">213</field>
-    <field name="product_unit_amount" >1100ml</field>
-    <field name="product_price">370</field>
+    <field name="product_price">1,310</field>
+</doc> <doc>
+    <field name="id">213</field>
+    <field name="product_code">BLR214</field>
+    <field name="product_name">熟成オリーブオイル</field>
+    <field name="product_unit_amount">1100ml</field>
     <field name="product_maker">藤田製糖 株式会社</field>
     <field name="field_release_day">平成14年07月</field>
-</doc>
-<doc><field name="product_code">MUY215</field>
-    <field name="product_name">214</field>
-    <field name="product_unit_amount" >1050ml</field>
-    <field name="product_price">1,060</field>
+    <field name="product_price">370</field>
+</doc> <doc>
+    <field name="id">214</field>
+    <field name="product_code">MUY215</field>
+    <field name="product_name">ミルキーお酢</field>
+    <field name="product_unit_amount">1050ml</field>
     <field name="product_maker"> 清野乳業 株式会社</field>
     <field name="field_release_day">平成15年08月</field>
-</doc>
-<doc><field name="product_code">FTZ216</field>
-    <field name="product_name">215</field>
-    <field name="product_unit_amount" >1050ml</field>
-    <field name="product_price">1,220</field>
+    <field name="product_price">1,060</field>
+</doc> <doc>
+    <field name="id">215</field>
+    <field name="product_code">FTZ216</field>
+    <field name="product_name">デリシャスお茶</field>
+    <field name="product_unit_amount">1050ml</field>
     <field name="product_maker"> 新田食品工業 株式会社</field>
     <field name="field_release_day">平成15年01月</field>
-</doc>
-<doc><field name="product_code">HKV217</field>
-    <field name="product_name">216</field>
-    <field name="product_unit_amount" >1200g</field>
-    <field name="product_price">1,380</field>
+    <field name="product_price">1,220</field>
+</doc> <doc>
+    <field name="id">216</field>
+    <field name="product_code">HKV217</field>
+    <field name="product_name">料理用チョコレート</field>
+    <field name="product_unit_amount">1200g</field>
     <field name="product_maker">株式会社 後藤食品工業</field>
     <field name="field_release_day">平成19年04月</field>
-</doc>
-<doc><field name="product_code">CKT218</field>
-    <field name="product_name">217</field>
-    <field name="product_unit_amount" >350ml</field>
-    <field name="product_price">400</field>
+    <field name="product_price">1,380</field>
+</doc> <doc>
+    <field name="id">217</field>
+    <field name="product_code">CKT218</field>
+    <field name="product_name">大自然がくれた抹茶</field>
+    <field name="product_unit_amount">350ml</field>
     <field name="product_maker">株式会社 角田化学</field>
     <field name="field_release_day">平成16年02月</field>
-</doc>
-<doc><field name="product_code">AEW219</field>
-    <field name="product_name">218</field>
-    <field name="product_unit_amount" >500ml</field>
-    <field name="product_price">1,260</field>
+    <field name="product_price">400</field>
+</doc> <doc>
+    <field name="id">218</field>
+    <field name="product_code">AEW219</field>
+    <field name="product_name">フレッシュウーロン茶</field>
+    <field name="product_unit_amount">500ml</field>
     <field name="product_maker">株式会社 小出乳業</field>
     <field name="field_release_day">平成14年08月</field>
-</doc>
-<doc><field name="product_code">CUY220</field>
-    <field name="product_name">219</field>
-    <field name="product_unit_amount" >450g</field>
-    <field name="product_price">1,180</field>
+    <field name="product_price">1,260</field>
+</doc> <doc>
+    <field name="id">219</field>
+    <field name="product_code">CUY220</field>
+    <field name="product_name">天然スライスチーズ</field>
+    <field name="product_unit_amount">450g</field>
     <field name="product_maker">東アジア製糖 株式会社</field>
     <field name="field_release_day">平成16年10月</field>
-</doc>
-<doc><field name="product_code">JUV221</field>
-    <field name="product_name">220</field>
-    <field name="product_unit_amount" >1100g</field>
-    <field name="product_price">1,560</field>
+    <field name="product_price">1,180</field>
+</doc> <doc>
+    <field name="id">220</field>
+    <field name="product_code">JUV221</field>
+    <field name="product_name">健やかチーズ</field>
+    <field name="product_unit_amount">1100g</field>
     <field name="product_maker">株式会社 西原化学</field>
     <field name="field_release_day">平成18年03月</field>
-</doc>
-<doc><field name="product_code">BJU222</field>
-    <field name="product_name">221</field>
-    <field name="product_unit_amount" >350ml</field>
-    <field name="product_price">1,190</field>
+    <field name="product_price">1,560</field>
+</doc> <doc>
+    <field name="id">221</field>
+    <field name="product_code">BJU222</field>
+    <field name="product_name">高級ミネラルウォーター</field>
+    <field name="product_unit_amount">350ml</field>
     <field name="product_maker">株式会社 高村冷凍食品</field>
     <field name="field_release_day">平成18年05月</field>
-</doc>
-<doc><field name="product_code">QRX223</field>
-    <field name="product_name">222</field>
-    <field name="product_unit_amount" >750ml</field>
-    <field name="product_price">1,680</field>
+    <field name="product_price">1,190</field>
+</doc> <doc>
+    <field name="id">222</field>
+    <field name="product_code">QRX223</field>
+    <field name="product_name">からだよろこぶ緑茶</field>
+    <field name="product_unit_amount">750ml</field>
     <field name="product_maker">ジーニアスケミカル 株式会社</field>
     <field name="field_release_day">平成17年10月</field>
-</doc>
-<doc><field name="product_code">DSX224</field>
-    <field name="product_name">223</field>
-    <field name="product_unit_amount" >500ml</field>
-    <field name="product_price">550</field>
+    <field name="product_price">1,680</field>
+</doc> <doc>
+    <field name="id">223</field>
+    <field name="product_code">DSX224</field>
+    <field name="product_name">からだにやさしいコーヒー牛乳</field>
+    <field name="product_unit_amount">500ml</field>
     <field name="product_maker"> 株式会社 デルーホＪＳ食品工業</field>
     <field name="field_release_day">平成20年06月</field>
-</doc>
-<doc><field name="product_code">ABM225</field>
-    <field name="product_name">224</field>
-    <field name="product_unit_amount" >1200ml</field>
-    <field name="product_price">680</field>
+    <field name="product_price">550</field>
+</doc> <doc>
+    <field name="id">224</field>
+    <field name="product_code">ABM225</field>
+    <field name="product_name">極上ミネラルウォーター</field>
+    <field name="product_unit_amount">1200ml</field>
     <field name="product_maker"> シェルケミカル 株式会社</field>
     <field name="field_release_day">平成20年01月</field>
-</doc>
-<doc><field name="product_code">EMR226</field>
-    <field name="product_name">225</field>
-    <field name="product_unit_amount" >950ml</field>
-    <field name="product_price">1,390</field>
+    <field name="product_price">680</field>
+</doc> <doc>
+    <field name="id">225</field>
+    <field name="product_code">EMR226</field>
+    <field name="product_name">エクストラコーヒー牛乳</field>
+    <field name="product_unit_amount">950ml</field>
     <field name="product_maker">株式会社 岡田化学</field>
     <field name="field_release_day">平成20年12月</field>
-</doc>
-<doc><field name="product_code">EPZ227</field>
-    <field name="product_name">226</field>
-    <field name="product_unit_amount" >800g</field>
-    <field name="product_price">1,050</field>
+    <field name="product_price">1,390</field>
+</doc> <doc>
+    <field name="id">226</field>
+    <field name="product_code">EPZ227</field>
+    <field name="product_name">徳用塩</field>
+    <field name="product_unit_amount">800g</field>
     <field name="product_maker"> 株式会社 シマザキ化学</field>
     <field name="field_release_day">平成16年02月</field>
-</doc>
-<doc><field name="product_code">KOP228</field>
-    <field name="product_name">227</field>
-    <field name="product_unit_amount" >1200ml</field>
     <field name="product_price">1,050</field>
+</doc> <doc>
+    <field name="id">227</field>
+    <field name="product_code">KOP228</field>
+    <field name="product_name">最高級コーヒー牛乳</field>
+    <field name="product_unit_amount">1200ml</field>
     <field name="product_maker"> 宮沢製糖 株式会社</field>
     <field name="field_release_day">平成12年10月</field>
-</doc>
-<doc><field name="product_code">OVZ229</field>
-    <field name="product_name">228</field>
-    <field name="product_unit_amount" >300ml</field>
-    <field name="product_price">560</field>
+    <field name="product_price">1,050</field>
+</doc> <doc>
+    <field name="id">228</field>
+    <field name="product_code">OVZ229</field>
+    <field name="product_name">純正ミネラルウォーター</field>
+    <field name="product_unit_amount">300ml</field>
     <field name="product_maker">よしおか産業 株式会社</field>
     <field name="field_release_day">平成15年05月</field>
-</doc>
-<doc><field name="product_code">GKQ230</field>
-    <field name="product_name">229</field>
-    <field name="product_unit_amount" >400g</field>
-    <field name="product_price">1,210</field>
+    <field name="product_price">560</field>
+</doc> <doc>
+    <field name="id">229</field>
+    <field name="product_code">GKQ230</field>
+    <field name="product_name">デラックス塩</field>
+    <field name="product_unit_amount">400g</field>
     <field name="product_maker">株式会社 ジェット水産</field>
     <field name="field_release_day">平成21年12月</field>
-</doc>
-<doc><field name="product_code">GQZ231</field>
-    <field name="product_name">230</field>
-    <field name="product_unit_amount" >450ml</field>
-    <field name="product_price">600</field>
+    <field name="product_price">1,210</field>
+</doc> <doc>
+    <field name="id">230</field>
+    <field name="product_code">GQZ231</field>
+    <field name="product_name">大自然の緑茶</field>
+    <field name="product_unit_amount">450ml</field>
     <field name="product_maker">株式会社 西原フード</field>
     <field name="field_release_day">平成17年04月</field>
-</doc>
-<doc><field name="product_code">IPX232</field>
-    <field name="product_name">231</field>
-    <field name="product_unit_amount" >650g</field>
-    <field name="product_price">840</field>
+    <field name="product_price">600</field>
+</doc> <doc>
+    <field name="id">231</field>
+    <field name="product_code">IPX232</field>
+    <field name="product_name">ヘルシーマーガリン</field>
+    <field name="product_unit_amount">650g</field>
     <field name="product_maker">堀井食品工業 株式会社</field>
     <field name="field_release_day">平成17年01月</field>
-</doc>
-<doc><field name="product_code">CLW233</field>
-    <field name="product_name">232</field>
-    <field name="product_unit_amount" >1150ml</field>
-    <field name="product_price">1,590</field>
+    <field name="product_price">840</field>
+</doc> <doc>
+    <field name="id">232</field>
+    <field name="product_code">CLW233</field>
+    <field name="product_name">からだにやさしいお酢</field>
+    <field name="product_unit_amount">1150ml</field>
     <field name="product_maker">株式会社 宮沢サイエンス</field>
     <field name="field_release_day">平成19年12月</field>
-</doc>
-<doc><field name="product_code">KQW234</field>
-    <field name="product_name">233</field>
-    <field name="product_unit_amount" >1100ml</field>
-    <field name="product_price">690</field>
+    <field name="product_price">1,590</field>
+</doc> <doc>
+    <field name="id">233</field>
+    <field name="product_code">KQW234</field>
+    <field name="product_name">大自然のコーヒー</field>
+    <field name="product_unit_amount">1100ml</field>
     <field name="product_maker">株式会社 西アジア水産</field>
     <field name="field_release_day">平成16年06月</field>
-</doc>
-<doc><field name="product_code">BPX235</field>
-    <field name="product_name">234</field>
-    <field name="product_unit_amount" >1150ml</field>
-    <field name="product_price">580</field>
+    <field name="product_price">690</field>
+</doc> <doc>
+    <field name="id">234</field>
+    <field name="product_code">BPX235</field>
+    <field name="product_name">おいしいお茶</field>
+    <field name="product_unit_amount">1150ml</field>
     <field name="product_maker"> 株式会社 荒木化学</field>
     <field name="field_release_day">平成18年02月</field>
-</doc>
-<doc><field name="product_code">DRS236</field>
-    <field name="product_name">235</field>
-    <field name="product_unit_amount" >1000ml</field>
-    <field name="product_price">1,360</field>
+    <field name="product_price">580</field>
+</doc> <doc>
+    <field name="id">235</field>
+    <field name="product_code">DRS236</field>
+    <field name="product_name">健やかミネラルウォーター</field>
+    <field name="product_unit_amount">1000ml</field>
     <field name="product_maker">株式会社 カワモト製糖</field>
     <field name="field_release_day">平成16年06月</field>
-</doc>
-<doc><field name="product_code">GIN237</field>
-    <field name="product_name">236</field>
-    <field name="product_unit_amount" >1150g</field>
-    <field name="product_price">1,470</field>
+    <field name="product_price">1,360</field>
+</doc> <doc>
+    <field name="id">236</field>
+    <field name="product_code">GIN237</field>
+    <field name="product_name">デリシャススライスチーズ</field>
+    <field name="product_unit_amount">1150g</field>
     <field name="product_maker">株式会社 藤田産業</field>
     <field name="field_release_day">平成21年12月</field>
-</doc>
-<doc><field name="product_code">DGU238</field>
-    <field name="product_name">237</field>
-    <field name="product_unit_amount" >1000ml</field>
-    <field name="product_price">1,340</field>
+    <field name="product_price">1,470</field>
+</doc> <doc>
+    <field name="id">237</field>
+    <field name="product_code">DGU238</field>
+    <field name="product_name">ヘルシーお酢</field>
+    <field name="product_unit_amount">1000ml</field>
     <field name="product_maker"> シトリン乳業 株式会社</field>
     <field name="field_release_day">平成18年05月</field>
-</doc>
-<doc><field name="product_code">PSZ239</field>
-    <field name="product_name">238</field>
-    <field name="product_unit_amount" >1050g</field>
-    <field name="product_price">860</field>
+    <field name="product_price">1,340</field>
+</doc> <doc>
+    <field name="id">238</field>
+    <field name="product_code">PSZ239</field>
+    <field name="product_name">デリシャスチョコレート</field>
+    <field name="product_unit_amount">1050g</field>
     <field name="product_maker"> 株式会社 よしおか食品</field>
     <field name="field_release_day">平成16年08月</field>
-</doc>
-<doc><field name="product_code">ATZ240</field>
-    <field name="product_name">239</field>
-    <field name="product_unit_amount" >1000ml</field>
-    <field name="product_price">1,220</field>
+    <field name="product_price">860</field>
+</doc> <doc>
+    <field name="id">239</field>
+    <field name="product_code">ATZ240</field>
+    <field name="product_name">極上オリーブオイル</field>
+    <field name="product_unit_amount">1000ml</field>
     <field name="product_maker"> とよたバイオ 株式会社</field>
     <field name="field_release_day">平成14年10月</field>
-</doc>
-<doc><field name="product_code">JSX241</field>
-    <field name="product_name">240</field>
-    <field name="product_unit_amount" >950g</field>
-    <field name="product_price">1,720</field>
+    <field name="product_price">1,220</field>
+</doc> <doc>
+    <field name="id">240</field>
+    <field name="product_code">JSX241</field>
+    <field name="product_name">からだにやさしいバター</field>
+    <field name="product_unit_amount">950g</field>
     <field name="product_maker">タカムラバイオ 株式会社</field>
     <field name="field_release_day">平成12年09月</field>
-</doc>
-<doc><field name="product_code">AGX242</field>
-    <field name="product_name">241</field>
-    <field name="product_unit_amount" >1200g</field>
-    <field name="product_price">520</field>
+    <field name="product_price">1,720</field>
+</doc> <doc>
+    <field name="id">241</field>
+    <field name="product_code">AGX242</field>
+    <field name="product_name">熟成ジャム</field>
+    <field name="product_unit_amount">1200g</field>
     <field name="product_maker"> 株式会社 小出食品工業</field>
     <field name="field_release_day">平成15年01月</field>
-</doc>
-<doc><field name="product_code">EPY243</field>
-    <field name="product_name">242</field>
-    <field name="product_unit_amount" >450g</field>
-    <field name="product_price">1,790</field>
+    <field name="product_price">520</field>
+</doc> <doc>
+    <field name="id">242</field>
+    <field name="product_code">EPY243</field>
+    <field name="product_name">高級粉チーズ</field>
+    <field name="product_unit_amount">450g</field>
     <field name="product_maker">株式会社 トヨタ産業</field>
     <field name="field_release_day">平成18年11月</field>
-</doc>
-<doc><field name="product_code">FOX244</field>
-    <field name="product_name">243</field>
-    <field name="product_unit_amount" >350g</field>
-    <field name="product_price">630</field>
+    <field name="product_price">1,790</field>
+</doc> <doc>
+    <field name="id">243</field>
+    <field name="product_code">FOX244</field>
+    <field name="product_name">エクストラチョコレート</field>
+    <field name="product_unit_amount">350g</field>
     <field name="product_maker">株式会社 川本ケミカル</field>
     <field name="field_release_day">平成16年01月</field>
-</doc>
-<doc><field name="product_code">CER245</field>
-    <field name="product_name">244</field>
-    <field name="product_unit_amount" >650g</field>
-    <field name="product_price">370</field>
+    <field name="product_price">630</field>
+</doc> <doc>
+    <field name="id">244</field>
+    <field name="product_code">CER245</field>
+    <field name="product_name">ヘルシーチーズ</field>
+    <field name="product_unit_amount">650g</field>
     <field name="product_maker">株式会社 レインボー・ガーネット・ジャスパー食品工業</field>
     <field name="field_release_day">平成17年03月</field>
-</doc>
-<doc><field name="product_code">ILS246</field>
-    <field name="product_name">245</field>
-    <field name="product_unit_amount" >800ml</field>
-    <field name="product_price">860</field>
+    <field name="product_price">370</field>
+</doc> <doc>
+    <field name="id">245</field>
+    <field name="product_code">ILS246</field>
+    <field name="product_name">極上ウーロン茶</field>
+    <field name="product_unit_amount">800ml</field>
     <field name="product_maker"> かめやま食品工業 株式会社</field>
     <field name="field_release_day">平成16年03月</field>
-</doc>
-<doc><field name="product_code">DEX247</field>
-    <field name="product_name">246</field>
-    <field name="product_unit_amount" >1050ml</field>
-    <field name="product_price">300</field>
+    <field name="product_price">860</field>
+</doc> <doc>
+    <field name="id">246</field>
+    <field name="product_code">DEX247</field>
+    <field name="product_name">今までなかったオリーブオイル</field>
+    <field name="product_unit_amount">1050ml</field>
     <field name="product_maker"> おがわ・ふじた食品工業 株式会社</field>
     <field name="field_release_day">平成12年07月</field>
-</doc>
-<doc><field name="product_code">MPR248</field>
-    <field name="product_name">247</field>
-    <field name="product_unit_amount" >950g</field>
-    <field name="product_price">1,480</field>
+    <field name="product_price">300</field>
+</doc> <doc>
+    <field name="id">247</field>
+    <field name="product_code">MPR248</field>
+    <field name="product_name">大自然がくれたチョコレート</field>
+    <field name="product_unit_amount">950g</field>
     <field name="product_maker"> 株式会社 帝国産業</field>
     <field name="field_release_day">平成21年05月</field>
-</doc>
-<doc><field name="product_code">HNP249</field>
-    <field name="product_name">248</field>
-    <field name="product_unit_amount" >800g</field>
-    <field name="product_price">620</field>
+    <field name="product_price">1,480</field>
+</doc> <doc>
+    <field name="id">248</field>
+    <field name="product_code">HNP249</field>
+    <field name="product_name">ミルキージャム</field>
+    <field name="product_unit_amount">800g</field>
     <field name="product_maker"> 株式会社 ヨシオカ食品工業</field>
     <field name="field_release_day">平成21年06月</field>
-</doc>
-<doc><field name="product_code">GLR250</field>
-    <field name="product_name">249</field>
-    <field name="product_unit_amount" >800ml</field>
-    <field name="product_price">940</field>
+    <field name="product_price">620</field>
+</doc> <doc>
+    <field name="id">249</field>
+    <field name="product_code">GLR250</field>
+    <field name="product_name">健やか牛乳</field>
+    <field name="product_unit_amount">800ml</field>
     <field name="product_maker"> 株式会社 岡田乳業</field>
     <field name="field_release_day">平成13年01月</field>
-</doc>
-<doc><field name="product_code">EQZ251</field>
-    <field name="product_name">250</field>
-    <field name="product_unit_amount" >1050ml</field>
-    <field name="product_price">960</field>
+    <field name="product_price">940</field>
+</doc> <doc>
+    <field name="id">250</field>
+    <field name="product_code">EQZ251</field>
+    <field name="product_name">料理用緑茶</field>
+    <field name="product_unit_amount">1050ml</field>
     <field name="product_maker">おかだ乳業 株式会社</field>
     <field name="field_release_day">平成15年10月</field>
-</doc>
-<doc><field name="product_code">GRY252</field>
-    <field name="product_name">251</field>
-    <field name="product_unit_amount" >450g</field>
-    <field name="product_price">1,230</field>
+    <field name="product_price">960</field>
+</doc> <doc>
+    <field name="id">251</field>
+    <field name="product_code">GRY252</field>
+    <field name="product_name">プレミアムバター</field>
+    <field name="product_unit_amount">450g</field>
     <field name="product_maker"> 株式会社 カワモトケミカル</field>
     <field name="field_release_day">平成17年10月</field>
-</doc>
-<doc><field name="product_code">CWX253</field>
-    <field name="product_name">252</field>
-    <field name="product_unit_amount" >400g</field>
-    <field name="product_price">1,690</field>
+    <field name="product_price">1,230</field>
+</doc> <doc>
+    <field name="id">252</field>
+    <field name="product_code">CWX253</field>
+    <field name="product_name">フレッシュ塩</field>
+    <field name="product_unit_amount">400g</field>
     <field name="product_maker">カワモト産業 株式会社</field>
     <field name="field_release_day">平成19年03月</field>
-</doc>
-<doc><field name="product_code">ADI254</field>
-    <field name="product_name">253</field>
-    <field name="product_unit_amount" >600ml</field>
     <field name="product_price">1,690</field>
+</doc> <doc>
+    <field name="id">253</field>
+    <field name="product_code">ADI254</field>
+    <field name="product_name">極上豆乳</field>
+    <field name="product_unit_amount">600ml</field>
     <field name="product_maker">株式会社 セト化学工業</field>
     <field name="field_release_day">平成20年06月</field>
-</doc>
-<doc><field name="product_code">JMN255</field>
-    <field name="product_name">254</field>
-    <field name="product_unit_amount" >350g</field>
-    <field name="product_price">1,800</field>
+    <field name="product_price">1,690</field>
+</doc> <doc>
+    <field name="id">254</field>
+    <field name="product_code">JMN255</field>
+    <field name="product_name">おいしいチョコレート</field>
+    <field name="product_unit_amount">350g</field>
     <field name="product_maker"> 株式会社 角田水産</field>
     <field name="field_release_day">平成19年08月</field>
-</doc>
-<doc><field name="product_code">CDJ256</field>
-    <field name="product_name">255</field>
-    <field name="product_unit_amount" >500ml</field>
-    <field name="product_price">1,760</field>
+    <field name="product_price">1,800</field>
+</doc> <doc>
+    <field name="id">255</field>
+    <field name="product_code">CDJ256</field>
+    <field name="product_name">エクストラ豆乳</field>
+    <field name="product_unit_amount">500ml</field>
     <field name="product_maker">マッツァー産業 株式会社</field>
     <field name="field_release_day">平成16年01月</field>
-</doc>
-<doc><field name="product_code">OUZ257</field>
-    <field name="product_name">256</field>
-    <field name="product_unit_amount" >1150g</field>
-    <field name="product_price">1,240</field>
+    <field name="product_price">1,760</field>
+</doc> <doc>
+    <field name="id">256</field>
+    <field name="product_code">OUZ257</field>
+    <field name="product_name">大自然がくれたチーズ</field>
+    <field name="product_unit_amount">1150g</field>
     <field name="product_maker"> 株式会社 荒木化学工業</field>
     <field name="field_release_day">平成13年03月</field>
-</doc>
-<doc><field name="product_code">EFR258</field>
-    <field name="product_name">257</field>
-    <field name="product_unit_amount" >1050ml</field>
-    <field name="product_price">1,700</field>
+    <field name="product_price">1,240</field>
+</doc> <doc>
+    <field name="id">257</field>
+    <field name="product_code">EFR258</field>
+    <field name="product_name">フレッシュ抹茶</field>
+    <field name="product_unit_amount">1050ml</field>
     <field name="product_maker">とくなが化学 株式会社</field>
     <field name="field_release_day">平成16年11月</field>
-</doc>
-<doc><field name="product_code">BFP259</field>
-    <field name="product_name">258</field>
-    <field name="product_unit_amount" >350ml</field>
-    <field name="product_price">670</field>
+    <field name="product_price">1,700</field>
+</doc> <doc>
+    <field name="id">258</field>
+    <field name="product_code">BFP259</field>
+    <field name="product_name">ミルキー抹茶</field>
+    <field name="product_unit_amount">350ml</field>
     <field name="product_maker">株式会社 アラキ食品工業</field>
     <field name="field_release_day">平成15年03月</field>
-</doc>
-<doc><field name="product_code">HPW260</field>
-    <field name="product_name">259</field>
-    <field name="product_unit_amount" >850g</field>
-    <field name="product_price">1,780</field>
+    <field name="product_price">670</field>
+</doc> <doc>
+    <field name="id">259</field>
+    <field name="product_code">HPW260</field>
+    <field name="product_name">フレッシュスライスチーズ</field>
+    <field name="product_unit_amount">850g</field>
     <field name="product_maker"> 株式会社 ジルコン食品工業</field>
     <field name="field_release_day">平成21年08月</field>
-</doc>
-<doc><field name="product_code">FOW261</field>
-    <field name="product_name">260</field>
-    <field name="product_unit_amount" >1000ml</field>
-    <field name="product_price">530</field>
+    <field name="product_price">1,780</field>
+</doc> <doc>
+    <field name="id">260</field>
+    <field name="product_code">FOW261</field>
+    <field name="product_name">高級コーヒー牛乳</field>
+    <field name="product_unit_amount">1000ml</field>
     <field name="product_maker">株式会社 ジーニアスケミカル</field>
     <field name="field_release_day">平成19年08月</field>
-</doc>
-<doc><field name="product_code">KUZ262</field>
-    <field name="product_name">261</field>
-    <field name="product_unit_amount" >900ml</field>
-    <field name="product_price">1,660</field>
+    <field name="product_price">530</field>
+</doc> <doc>
+    <field name="id">261</field>
+    <field name="product_code">KUZ262</field>
+    <field name="product_name">純正紅茶</field>
+    <field name="product_unit_amount">900ml</field>
     <field name="product_maker"> ホリイ水産 株式会社</field>
     <field name="field_release_day">平成17年03月</field>
-</doc>
-<doc><field name="product_code">DOQ263</field>
-    <field name="product_name">262</field>
-    <field name="product_unit_amount" >1100ml</field>
-    <field name="product_price">830</field>
+    <field name="product_price">1,660</field>
+</doc> <doc>
+    <field name="id">262</field>
+    <field name="product_code">DOQ263</field>
+    <field name="product_name">プレミアムミネラルウォーター</field>
+    <field name="product_unit_amount">1100ml</field>
     <field name="product_maker">しもむら乳業 株式会社</field>
     <field name="field_release_day">平成18年07月</field>
-</doc>
-<doc><field name="product_code">ABR264</field>
-    <field name="product_name">263</field>
-    <field name="product_unit_amount" >400ml</field>
-    <field name="product_price">580</field>
+    <field name="product_price">830</field>
+</doc> <doc>
+    <field name="id">263</field>
+    <field name="product_code">ABR264</field>
+    <field name="product_name">健康コーヒー</field>
+    <field name="product_unit_amount">400ml</field>
     <field name="product_maker">角田水産 株式会社</field>
     <field name="field_release_day">平成16年05月</field>
-</doc>
-<doc><field name="product_code">MVZ265</field>
-    <field name="product_name">264</field>
-    <field name="product_unit_amount" >750ml</field>
-    <field name="product_price">1,210</field>
+    <field name="product_price">580</field>
+</doc> <doc>
+    <field name="id">264</field>
+    <field name="product_code">MVZ265</field>
+    <field name="product_name">熟成お茶</field>
+    <field name="product_unit_amount">750ml</field>
     <field name="product_maker"> よしおか乳業 株式会社</field>
     <field name="field_release_day">平成20年02月</field>
-</doc>
-<doc><field name="product_code">ABC266</field>
-    <field name="product_name">265</field>
-    <field name="product_unit_amount" >900g</field>
-    <field name="product_price">570</field>
+    <field name="product_price">1,210</field>
+</doc> <doc>
+    <field name="id">265</field>
+    <field name="product_code">ABC266</field>
+    <field name="product_name">みんなのスライスチーズ</field>
+    <field name="product_unit_amount">900g</field>
     <field name="product_maker">株式会社 ジェット食品工業</field>
     <field name="field_release_day">平成21年01月</field>
-</doc>
-<doc><field name="product_code">EJN267</field>
-    <field name="product_name">266</field>
-    <field name="product_unit_amount" >850g</field>
-    <field name="product_price">480</field>
+    <field name="product_price">570</field>
+</doc> <doc>
+    <field name="id">266</field>
+    <field name="product_code">EJN267</field>
+    <field name="product_name">からだよろこぶチョコレート</field>
+    <field name="product_unit_amount">850g</field>
     <field name="product_maker">小原フード 株式会社</field>
     <field name="field_release_day">平成17年11月</field>
-</doc>
-<doc><field name="product_code">CEF268</field>
-    <field name="product_name">267</field>
-    <field name="product_unit_amount" >600g</field>
-    <field name="product_price">1,430</field>
+    <field name="product_price">480</field>
+</doc> <doc>
+    <field name="id">267</field>
+    <field name="product_code">CEF268</field>
+    <field name="product_name">プレミアムジャム</field>
+    <field name="product_unit_amount">600g</field>
     <field name="product_maker">株式会社 清野乳業</field>
     <field name="field_release_day">平成18年04月</field>
-</doc>
-<doc><field name="product_code">CTW269</field>
-    <field name="product_name">268</field>
-    <field name="product_unit_amount" >1200ml</field>
-    <field name="product_price">550</field>
+    <field name="product_price">1,430</field>
+</doc> <doc>
+    <field name="id">268</field>
+    <field name="product_code">CTW269</field>
+    <field name="product_name">奇跡の緑茶</field>
+    <field name="product_unit_amount">1200ml</field>
     <field name="product_maker">株式会社 後藤ケミカル</field>
     <field name="field_release_day">平成21年02月</field>
-</doc>
-<doc><field name="product_code">EPX270</field>
-    <field name="product_name">269</field>
-    <field name="product_unit_amount" >550ml</field>
-    <field name="product_price">1,690</field>
+    <field name="product_price">550</field>
+</doc> <doc>
+    <field name="id">269</field>
+    <field name="product_code">EPX270</field>
+    <field name="product_name">みんなのコーヒー</field>
+    <field name="product_unit_amount">550ml</field>
     <field name="product_maker"> Ｊ＆Ｋ食品工業 株式会社</field>
     <field name="field_release_day">平成18年07月</field>
-</doc>
-<doc><field name="product_code">CHT271</field>
-    <field name="product_name">270</field>
-    <field name="product_unit_amount" >950ml</field>
-    <field name="product_price">1,730</field>
+    <field name="product_price">1,690</field>
+</doc> <doc>
+    <field name="id">270</field>
+    <field name="product_code">CHT271</field>
+    <field name="product_name">天然ウーロン茶</field>
+    <field name="product_unit_amount">950ml</field>
     <field name="product_maker">株式会社 岡田ケミカル</field>
     <field name="field_release_day">平成18年04月</field>
-</doc>
-<doc><field name="product_code">ORT272</field>
-    <field name="product_name">271</field>
-    <field name="product_unit_amount" >300g</field>
-    <field name="product_price">950</field>
+    <field name="product_price">1,730</field>
+</doc> <doc>
+    <field name="id">271</field>
+    <field name="product_code">ORT272</field>
+    <field name="product_name">天然チョコレート</field>
+    <field name="product_unit_amount">300g</field>
     <field name="product_maker"> 荒木食品 株式会社</field>
     <field name="field_release_day">平成12年12月</field>
-</doc>
-<doc><field name="product_code">IMN273</field>
-    <field name="product_name">272</field>
-    <field name="product_unit_amount" >950g</field>
-    <field name="product_price">790</field>
+    <field name="product_price">950</field>
+</doc> <doc>
+    <field name="id">272</field>
+    <field name="product_code">IMN273</field>
+    <field name="product_name">プレミアムジャム</field>
+    <field name="product_unit_amount">950g</field>
     <field name="product_maker">株式会社 パニーニフード</field>
     <field name="field_release_day">平成16年08月</field>
-</doc>
-<doc><field name="product_code">DEZ274</field>
-    <field name="product_name">273</field>
-    <field name="product_unit_amount" >750ml</field>
-    <field name="product_price">320</field>
+    <field name="product_price">790</field>
+</doc> <doc>
+    <field name="id">273</field>
+    <field name="product_code">DEZ274</field>
+    <field name="product_name">極上コーヒー牛乳</field>
+    <field name="product_unit_amount">750ml</field>
     <field name="product_maker">小池食品工業 株式会社</field>
     <field name="field_release_day">平成15年10月</field>
-</doc>
-<doc><field name="product_code">DMQ275</field>
-    <field name="product_name">274</field>
-    <field name="product_unit_amount" >300ml</field>
-    <field name="product_price">890</field>
+    <field name="product_price">320</field>
+</doc> <doc>
+    <field name="id">274</field>
+    <field name="product_code">DMQ275</field>
+    <field name="product_name">高級緑茶</field>
+    <field name="product_unit_amount">300ml</field>
     <field name="product_maker"> 株式会社 ふじた水産</field>
     <field name="field_release_day">平成22年11月</field>
-</doc>
-<doc><field name="product_code">OPU276</field>
-    <field name="product_name">275</field>
-    <field name="product_unit_amount" >1000ml</field>
-    <field name="product_price">1,540</field>
+    <field name="product_price">890</field>
+</doc> <doc>
+    <field name="id">275</field>
+    <field name="product_code">OPU276</field>
+    <field name="product_name">健やかコーヒー</field>
+    <field name="product_unit_amount">1000ml</field>
     <field name="product_maker">株式会社 宮沢食品</field>
     <field name="field_release_day">平成16年11月</field>
-</doc>
-<doc><field name="product_code">EIW277</field>
-    <field name="product_name">276</field>
-    <field name="product_unit_amount" >1150g</field>
-    <field name="product_price">1,770</field>
+    <field name="product_price">1,540</field>
+</doc> <doc>
+    <field name="id">276</field>
+    <field name="product_code">EIW277</field>
+    <field name="product_name">純正ジャム</field>
+    <field name="product_unit_amount">1150g</field>
     <field name="product_maker">株式会社 下村乳業</field>
     <field name="field_release_day">平成17年10月</field>
-</doc>
-<doc><field name="product_code">KNO278</field>
-    <field name="product_name">277</field>
-    <field name="product_unit_amount" >350g</field>
-    <field name="product_price">460</field>
+    <field name="product_price">1,770</field>
+</doc> <doc>
+    <field name="id">277</field>
+    <field name="product_code">KNO278</field>
+    <field name="product_name">デリシャスガーリック</field>
+    <field name="product_unit_amount">350g</field>
     <field name="product_maker">しまざき化学 株式会社</field>
     <field name="field_release_day">平成15年09月</field>
-</doc>
-<doc><field name="product_code">FMY279</field>
-    <field name="product_name">278</field>
-    <field name="product_unit_amount" >900g</field>
-    <field name="product_price">480</field>
+    <field name="product_price">460</field>
+</doc> <doc>
+    <field name="id">278</field>
+    <field name="product_code">FMY279</field>
+    <field name="product_name">大自然のスライスチーズ</field>
+    <field name="product_unit_amount">900g</field>
     <field name="product_maker">株式会社 よしおか産業</field>
     <field name="field_release_day">平成18年03月</field>
-</doc>
-<doc><field name="product_code">BEW280</field>
-    <field name="product_name">279</field>
-    <field name="product_unit_amount" >750ml</field>
-    <field name="product_price">430</field>
+    <field name="product_price">480</field>
+</doc> <doc>
+    <field name="id">279</field>
+    <field name="product_code">BEW280</field>
+    <field name="product_name">オリジナル紅茶</field>
+    <field name="product_unit_amount">750ml</field>
     <field name="product_maker">東亜食品 株式会社</field>
     <field name="field_release_day">平成14年10月</field>
-</doc>
-<doc><field name="product_code">DJW281</field>
-    <field name="product_name">280</field>
-    <field name="product_unit_amount" >600g</field>
-    <field name="product_price">1,280</field>
+    <field name="product_price">430</field>
+</doc> <doc>
+    <field name="id">280</field>
+    <field name="product_code">DJW281</field>
+    <field name="product_name">デラックスバター</field>
+    <field name="product_unit_amount">600g</field>
     <field name="product_maker">株式会社 しもむら乳業</field>
     <field name="field_release_day">平成20年08月</field>
-</doc>
-<doc><field name="product_code">AGR282</field>
-    <field name="product_name">281</field>
-    <field name="product_unit_amount" >900ml</field>
-    <field name="product_price">1,350</field>
+    <field name="product_price">1,280</field>
+</doc> <doc>
+    <field name="id">281</field>
+    <field name="product_code">AGR282</field>
+    <field name="product_name">最高級オリーブオイル</field>
+    <field name="product_unit_amount">900ml</field>
     <field name="product_maker">カクダ乳業 株式会社</field>
     <field name="field_release_day">平成21年11月</field>
-</doc>
-<doc><field name="product_code">JMQ283</field>
-    <field name="product_name">282</field>
-    <field name="product_unit_amount" >1150g</field>
-    <field name="product_price">720</field>
+    <field name="product_price">1,350</field>
+</doc> <doc>
+    <field name="id">282</field>
+    <field name="product_code">JMQ283</field>
+    <field name="product_name">徳用スライスチーズ</field>
+    <field name="product_unit_amount">1150g</field>
     <field name="product_maker"> サンセットケミカル 株式会社</field>
     <field name="field_release_day">平成13年05月</field>
-</doc>
-<doc><field name="product_code">HMQ284</field>
-    <field name="product_name">283</field>
-    <field name="product_unit_amount" >550ml</field>
-    <field name="product_price">580</field>
+    <field name="product_price">720</field>
+</doc> <doc>
+    <field name="id">283</field>
+    <field name="product_code">HMQ284</field>
+    <field name="product_name">からだにやさしいコーヒー牛乳</field>
+    <field name="product_unit_amount">550ml</field>
     <field name="product_maker">株式会社 あらき食品工業</field>
     <field name="field_release_day">平成15年07月</field>
-</doc>
-<doc><field name="product_code">GJK285</field>
-    <field name="product_name">284</field>
-    <field name="product_unit_amount" >700g</field>
-    <field name="product_price">840</field>
+    <field name="product_price">580</field>
+</doc> <doc>
+    <field name="id">284</field>
+    <field name="product_code">GJK285</field>
+    <field name="product_name">からだよろこぶチーズ</field>
+    <field name="product_unit_amount">700g</field>
     <field name="product_maker">角田フード 株式会社</field>
     <field name="field_release_day">平成22年07月</field>
-</doc>
-<doc><field name="product_code">DKW286</field>
-    <field name="product_name">285</field>
-    <field name="product_unit_amount" >900ml</field>
-    <field name="product_price">940</field>
+    <field name="product_price">840</field>
+</doc> <doc>
+    <field name="id">285</field>
+    <field name="product_code">DKW286</field>
+    <field name="product_name">フレッシュコーヒー牛乳</field>
+    <field name="product_unit_amount">900ml</field>
     <field name="product_maker"> 株式会社 吉沢・よしざわ食品</field>
     <field name="field_release_day">平成22年12月</field>
-</doc>
-<doc><field name="product_code">EQS287</field>
-    <field name="product_name">286</field>
-    <field name="product_unit_amount" >1000g</field>
-    <field name="product_price">990</field>
+    <field name="product_price">940</field>
+</doc> <doc>
+    <field name="id">286</field>
+    <field name="product_code">EQS287</field>
+    <field name="product_name">熟成バター</field>
+    <field name="product_unit_amount">1000g</field>
     <field name="product_maker">株式会社 小出ケミカル</field>
     <field name="field_release_day">平成16年07月</field>
-</doc>
-<doc><field name="product_code">DGN288</field>
-    <field name="product_name">287</field>
-    <field name="product_unit_amount" >600g</field>
-    <field name="product_price">440</field>
+    <field name="product_price">990</field>
+</doc> <doc>
+    <field name="id">287</field>
+    <field name="product_code">DGN288</field>
+    <field name="product_name">奇跡のジャム</field>
+    <field name="product_unit_amount">600g</field>
     <field name="product_maker">おおはし・松浦水産 株式会社</field>
     <field name="field_release_day">平成15年10月</field>
-</doc>
-<doc><field name="product_code">IVZ289</field>
-    <field name="product_name">288</field>
-    <field name="product_unit_amount" >1100g</field>
-    <field name="product_price">520</field>
+    <field name="product_price">440</field>
+</doc> <doc>
+    <field name="id">288</field>
+    <field name="product_code">IVZ289</field>
+    <field name="product_name">純正チョコレート</field>
+    <field name="product_unit_amount">1100g</field>
     <field name="product_maker"> せと化学工業 株式会社</field>
     <field name="field_release_day">平成20年08月</field>
-</doc>
-<doc><field name="product_code">CEW290</field>
-    <field name="product_name">289</field>
-    <field name="product_unit_amount" >950ml</field>
-    <field name="product_price">410</field>
+    <field name="product_price">520</field>
+</doc> <doc>
+    <field name="id">289</field>
+    <field name="product_code">CEW290</field>
+    <field name="product_name">高級オリーブオイル</field>
+    <field name="product_unit_amount">950ml</field>
     <field name="product_maker"> 株式会社 デルーホＪＳ乳業</field>
     <field name="field_release_day">平成22年08月</field>
-</doc>
-<doc><field name="product_code">QWZ291</field>
-    <field name="product_name">290</field>
-    <field name="product_unit_amount" >950ml</field>
-    <field name="product_price">790</field>
+    <field name="product_price">410</field>
+</doc> <doc>
+    <field name="id">290</field>
+    <field name="product_code">QWZ291</field>
+    <field name="product_name">デリシャス緑茶</field>
+    <field name="product_unit_amount">950ml</field>
     <field name="product_maker"> せと製糖 株式会社</field>
     <field name="field_release_day">平成13年03月</field>
-</doc>
-<doc><field name="product_code">FXY292</field>
-    <field name="product_name">291</field>
-    <field name="product_unit_amount" >500ml</field>
-    <field name="product_price">840</field>
+    <field name="product_price">790</field>
+</doc> <doc>
+    <field name="id">291</field>
+    <field name="product_code">FXY292</field>
+    <field name="product_name">大自然の抹茶</field>
+    <field name="product_unit_amount">500ml</field>
     <field name="product_maker">茂木・島崎化学 株式会社</field>
     <field name="field_release_day">平成13年10月</field>
-</doc>
-<doc><field name="product_code">CMV293</field>
-    <field name="product_name">292</field>
-    <field name="product_unit_amount" >700g</field>
-    <field name="product_price">810</field>
+    <field name="product_price">840</field>
+</doc> <doc>
+    <field name="id">292</field>
+    <field name="product_code">CMV293</field>
+    <field name="product_name">ミルキー塩</field>
+    <field name="product_unit_amount">700g</field>
     <field name="product_maker">株式会社 マッツァーバイオ</field>
     <field name="field_release_day">平成20年01月</field>
-</doc>
-<doc><field name="product_code">FNT294</field>
-    <field name="product_name">293</field>
-    <field name="product_unit_amount" >1050ml</field>
-    <field name="product_price">1,050</field>
+    <field name="product_price">810</field>
+</doc> <doc>
+    <field name="id">293</field>
+    <field name="product_code">FNT294</field>
+    <field name="product_name">デラックスお酢</field>
+    <field name="product_unit_amount">1050ml</field>
     <field name="product_maker">株式会社 後藤食品工業</field>
     <field name="field_release_day">平成16年06月</field>
-</doc>
-<doc><field name="product_code">WXY295</field>
-    <field name="product_name">294</field>
-    <field name="product_unit_amount" >900g</field>
-    <field name="product_price">1,540</field>
+    <field name="product_price">1,050</field>
+</doc> <doc>
+    <field name="id">294</field>
+    <field name="product_code">WXY295</field>
+    <field name="product_name">純正ガーリック</field>
+    <field name="product_unit_amount">900g</field>
     <field name="product_maker">とよた食品 株式会社</field>
     <field name="field_release_day">平成18年11月</field>
-</doc>
-<doc><field name="product_code">IST296</field>
-    <field name="product_name">295</field>
-    <field name="product_unit_amount" >1100g</field>
-    <field name="product_price">1,180</field>
+    <field name="product_price">1,540</field>
+</doc> <doc>
+    <field name="id">295</field>
+    <field name="product_code">IST296</field>
+    <field name="product_name">純正塩</field>
+    <field name="product_unit_amount">1100g</field>
     <field name="product_maker"> 株式会社 藤田化学</field>
     <field name="field_release_day">平成13年09月</field>
-</doc>
-<doc><field name="product_code">BDT297</field>
-    <field name="product_name">296</field>
-    <field name="product_unit_amount" >1000ml</field>
-    <field name="product_price">1,130</field>
+    <field name="product_price">1,180</field>
+</doc> <doc>
+    <field name="id">296</field>
+    <field name="product_code">BDT297</field>
+    <field name="product_name">からだにやさしい紅茶</field>
+    <field name="product_unit_amount">1000ml</field>
     <field name="product_maker">茂木・もぎ産業 株式会社</field>
     <field name="field_release_day">平成15年08月</field>
-</doc>
-<doc><field name="product_code">BNR298</field>
-    <field name="product_name">297</field>
-    <field name="product_unit_amount" >1050ml</field>
-    <field name="product_price">1,460</field>
+    <field name="product_price">1,130</field>
+</doc> <doc>
+    <field name="id">297</field>
+    <field name="product_code">BNR298</field>
+    <field name="product_name">デラックス抹茶</field>
+    <field name="product_unit_amount">1050ml</field>
     <field name="product_maker">ジェットバイオ 株式会社</field>
     <field name="field_release_day">平成21年03月</field>
-</doc>
-<doc><field name="product_code">CKM299</field>
-    <field name="product_name">298</field>
-    <field name="product_unit_amount" >850ml</field>
-    <field name="product_price">1,040</field>
+    <field name="product_price">1,460</field>
+</doc> <doc>
+    <field name="id">298</field>
+    <field name="product_code">CKM299</field>
+    <field name="product_name">健やか牛乳</field>
+    <field name="product_unit_amount">850ml</field>
     <field name="product_maker"> 極東・東アジア食品工業 株式会社</field>
     <field name="field_release_day">平成18年03月</field>
-</doc>
-<doc><field name="product_code">KLQ300</field>
-    <field name="product_name">299</field>
-    <field name="product_unit_amount" >1200ml</field>
-    <field name="product_price">1,170</field>
+    <field name="product_price">1,040</field>
+</doc> <doc>
+    <field name="id">299</field>
+    <field name="product_code">KLQ300</field>
+    <field name="product_name">ミルキーお酢</field>
+    <field name="product_unit_amount">1200ml</field>
     <field name="product_maker"> 株式会社 おがわ食品</field>
     <field name="field_release_day">平成18年07月</field>
+    <field name="product_price">1,170</field>
 </doc></add>

@@ -1,4 +1,4 @@
-code,name,unit_amount,price,maker,release_day
+code,product_name,unit_amount,price,maker,release_day
 BEY001,からだにやさしいコーヒー,700ml,400,株式会社 イマイズミ産業,平成18年10月
 PRS002,極上コーヒー牛乳,1050ml,410,大原食品 株式会社,平成22年08月
 BNX003,極旨緑茶,1200ml,"1,790",株式会社 尾崎化学工業,平成20年01月

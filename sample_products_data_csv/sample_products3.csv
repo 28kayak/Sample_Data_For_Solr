@@ -1,4 +1,4 @@
-code,name,unit_amount,price,maker,release_day
+code,product_name,unit_amount,price,maker,release_day
 ENQ001,極上チョコレート,700g,740,株式会社 パバロッティフード,平成12年10月
 GKX002,最高級紅茶,700ml,900, 株式会社 エメラルド乳業,平成15年03月
 JRT003,デリシャスお酢,650ml,350,ふじた産業 株式会社,平成20年12月
